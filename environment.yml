@@ -100,5 +100,6 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - msgpack==0.5.6
+    - pathvalidate==0.23.1
 prefix: /home/pgsb/daniel.lang/anaconda3/envs/membrane
 
