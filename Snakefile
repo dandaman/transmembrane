@@ -31,7 +31,7 @@ checkpoint split_multifasta:
 	input:
 		config["proteins"]
 	output:
-		directory("tmp/")
+		temp(directory("tmp/"))
 	run:
 		with open(input[0], "rU") as handle:
 			for record in SeqIO.parse(handle,"fasta"):
