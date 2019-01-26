@@ -1,0 +1,11 @@
+{
+	"TMHMM_model": "TMHMM2.0.model",
+	"TMHMM_states": {
+		"i": "in",
+		"M": "membrane",
+		"o": "out",
+		"O": "out"
+	},
+	"TMHMM_result": "tmhmm.csv",
+	"proteins":"play/t.fasta"
+}
