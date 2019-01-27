@@ -9,6 +9,7 @@
 	"MEMSAT_executable":	"/home/pgsb/daniel.lang/software/membrane_prediction/memsat-svm/run_memsat-svm.pl",
 	"MEMSAT_db":			"/nfs/scratch/daniel.lang/db/BLAST/uniref50",
 	"MEMSAT_cores":			8,
-	"result": 				"transmembrane_predictions.csv",
-	"proteins":				"play/t.fasta"
+	"tmp": 					"tmp",
+	"result": 				"sample_data/transmembrane_predictions.csv",
+	"proteins":				"sample_data/t.fasta"
 }
