@@ -94,3 +94,7 @@ rule aggregate_results:
 		o['signal_peptide']=o.signal_peptide.astype('bool')
 		o.to_csv(output[0],sep="\t",index=False)
 
+onsuccess:
+	dirpath=config["tmp"]
+	if os.path.exists(dirpath) and os.path.isdir(dirpath):
+		shutil.rmtree(dirpath)
