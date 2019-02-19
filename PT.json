@@ -1,0 +1,15 @@
+{
+	"TMHMM_model": 			"TMHMM2.0.model",
+	"TMHMM_states": 		{
+								"i": "in",
+								"M": "membrane",
+								"o": "out",
+								"O": "out"
+							},
+	"MEMSAT_executable":	"/home/pgsb/daniel.lang/software/membrane_prediction/memsat-svm/run_memsat-svm.pl",
+	"MEMSAT_db":			"/nfs/scratch/daniel.lang/db/BLAST/uniref50",
+	"MEMSAT_cores":			8,
+	"tmp":					"tmp_PT",
+	"result": 				"PT.transmembrane_predictions.csv",
+	"proteins":				"PT.fasta"
+}

@@ -1,0 +1,3 @@
+protein	method	signal_peptide	membrane_domains	protein_starts	topology
+Pp3c12_13250V3.6	tmhmm	False	0	out	
+Pp3c12_13250V3.6	memsat_svm	True	1	out	287-306

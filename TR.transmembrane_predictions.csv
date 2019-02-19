@@ -1,0 +1,2634 @@
+protein	method	signal_peptide	membrane_domains	protein_starts	topology
+Pp3c19_11580V3.1	tmhmm	False	0	out	
+Pp3c14_17210V3.10	tmhmm	False	0	out	
+Pp3c18_11770V3.5	tmhmm	False	0	out	
+Pp3c22_17280V3.3	tmhmm	False	0	out	
+Pp3c15_14600V3.2	tmhmm	False	0	out	
+Pp3c12_7090V3.1	tmhmm	False	0	out	
+Pp3c14_21766V3.3	tmhmm	False	0	out	
+Pp3c27_4210V3.1	tmhmm	False	0	out	
+Pp3c8_21920V3.1	tmhmm	False	0	out	
+Pp3c11_23530V3.6	tmhmm	False	0	out	
+Pp3c8_21920V3.2	tmhmm	False	0	out	
+Pp3c17_16550V3.5	tmhmm	False	0	out	
+Pp3c6_21140V3.2	tmhmm	False	0	out	
+Pp3c7_24660V3.3	tmhmm	False	0	in	
+Pp3c3_36750V3.6	tmhmm	False	0	out	
+Pp3c16_18950V3.6	tmhmm	False	0	out	
+Pp3c15_23590V3.2	tmhmm	False	0	out	
+Pp3c6_10390V3.7	tmhmm	False	0	out	
+Pp3c14_21750V3.1	tmhmm	False	0	out	
+Pp3c15_5070V3.3	tmhmm	False	0	out	
+Pp3c9_19210V3.3	tmhmm	False	0	in	
+Pp3c3_21060V3.9	tmhmm	False	0	out	
+Pp3c11_24880V3.1	tmhmm	False	0	out	
+Pp3c6_10210V3.1	tmhmm	False	0	out	
+Pp3s32_550V3.1	tmhmm	False	0	out	
+Pp3c13_8050V3.1	tmhmm	False	0	out	
+Pp3c7_26020V3.3	tmhmm	False	0	out	
+Pp3c13_16380V3.1	tmhmm	False	0	out	
+Pp3c7_8710V3.3	tmhmm	False	0	out	
+Pp3c15_19200V3.4	tmhmm	False	0	out	
+Pp3c7_10240V3.2	tmhmm	False	0	out	
+Pp3c3_36750V3.2	tmhmm	False	0	out	
+Pp3c16_210V3.3	tmhmm	False	0	out	
+Pp3c15_3710V3.4	tmhmm	False	0	out	
+Pp3c1_29082V3.2	tmhmm	False	0	out	
+Pp3c14_11190V3.6	tmhmm	False	0	out	
+Pp3c12_25750V3.4	tmhmm	False	0	out	
+Pp3c8_14490V3.5	tmhmm	False	0	out	
+Pp3c19_7630V3.1	tmhmm	False	0	out	
+Pp3c11_24880V3.6	tmhmm	False	0	out	
+Pp3c11_23530V3.3	tmhmm	False	0	out	
+Pp3c19_10210V3.4	tmhmm	False	0	out	
+Pp3c16_9230V3.3	tmhmm	False	0	out	
+Pp3c5_16090V3.3	tmhmm	False	0	out	
+Pp3c6_24360V3.3	tmhmm	False	0	out	
+Pp3c7_5480V3.5	tmhmm	False	0	out	
+Pp3c5_8700V3.2	tmhmm	False	0	out	
+Pp3c26_1300V3.3	tmhmm	False	0	out	
+Pp3c8_17100V3.2	tmhmm	False	0	out	
+Pp3c3_17380V3.3	tmhmm	False	0	out	
+Pp3c1_13308V3.2	tmhmm	False	0	out	
+Pp3c2_7400V3.2	tmhmm	False	0	out	
+Pp3c16_3320V3.3	tmhmm	False	0	out	
+Pp3c4_25990V3.2	tmhmm	False	0	out	
+Pp3c9_11360V3.1	tmhmm	False	0	out	
+Pp3c10_2450V3.12	tmhmm	False	0	out	
+Pp3c21_10520V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.2	tmhmm	False	0	out	
+Pp3c3_34180V3.2	tmhmm	False	0	out	
+Pp3c15_14600V3.1	tmhmm	False	0	out	
+Pp3c24_20920V3.3	tmhmm	False	0	out	
+Pp3c4_19510V3.4	tmhmm	False	0	out	
+Pp3c18_9600V3.8	tmhmm	False	0	out	
+Pp3c22_6390V3.1	tmhmm	False	0	out	
+Pp3c17_8330V3.7	tmhmm	False	0	out	
+Pp3c9_19210V3.2	tmhmm	False	0	in	
+Pp3c5_19640V3.4	tmhmm	False	0	out	
+Pp3c2_35520V3.4	tmhmm	False	0	out	
+Pp3c4_19510V3.1	tmhmm	False	0	out	
+Pp3c12_4290V3.2	tmhmm	False	0	out	
+Pp3c10_16040V3.2	tmhmm	False	0	out	
+Pp3c16_17020V3.5	tmhmm	False	0	out	
+Pp3c17_931V3.1	tmhmm	False	0	out	
+Pp3c14_21766V3.2	tmhmm	False	0	out	
+Pp3c10_2450V3.10	tmhmm	False	0	out	
+Pp3c5_12730V3.2	tmhmm	False	0	out	
+Pp3c4_21970V3.7	tmhmm	False	0	out	
+Pp3c26_1300V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.11	tmhmm	False	0	out	
+Pp3c2_37790V3.1	tmhmm	False	0	out	
+Pp3c1_37090V3.6	tmhmm	False	0	out	
+Pp3c16_10290V3.3	tmhmm	False	0	out	
+Pp3c1_22440V3.1	tmhmm	False	0	out	
+Pp3c9_23280V3.1	tmhmm	False	0	out	
+Pp3c17_3610V3.6	tmhmm	False	0	in	
+Pp3c13_15090V3.13	tmhmm	False	0	out	
+Pp3c7_5929V3.20	tmhmm	False	0	out	
+Pp3c13_15090V3.3	tmhmm	False	0	out	
+Pp3c16_18950V3.1	tmhmm	False	0	out	
+Pp3c5_20190V3.1	tmhmm	False	0	out	
+Pp3c13_4600V3.1	tmhmm	False	0	out	
+Pp3c16_7620V3.1	tmhmm	False	0	out	
+Pp3c2_10000V3.4	tmhmm	False	0	out	
+Pp3c6_10390V3.5	tmhmm	False	0	out	
+Pp3c6_24130V3.1	tmhmm	False	0	out	
+Pp3c16_3320V3.1	tmhmm	False	0	out	
+Pp3c2_31700V3.1	tmhmm	False	0	out	
+Pp3c3_36750V3.3	tmhmm	False	0	out	
+Pp3c2_31650V3.2	tmhmm	False	0	out	
+Pp3c7_5929V3.9	tmhmm	False	0	out	
+Pp3c2_22420V3.2	tmhmm	False	0	out	
+Pp3c24_20920V3.1	tmhmm	False	0	out	
+Pp3c26_5450V3.2	tmhmm	False	0	out	
+Pp3c2_4060V3.1	tmhmm	False	0	out	
+Pp3c8_17100V3.9	tmhmm	False	0	out	
+Pp3c25_7410V3.5	tmhmm	False	0	out	
+Pp3c7_4380V3.1	tmhmm	False	0	out	
+Pp3c2_35750V3.1	tmhmm	False	0	out	
+Pp3c1_3340V3.1	tmhmm	False	0	out	
+Pp3c8_18540V3.3	tmhmm	False	0	out	
+Pp3c17_19520V3.2	tmhmm	False	0	out	
+Pp3c18_15340V3.5	tmhmm	False	0	out	
+Pp3c8_17710V3.2	tmhmm	False	0	out	
+Pp3c8_19010V3.6	tmhmm	False	0	out	
+Pp3c10_2450V3.15	tmhmm	False	2	out	778-795,804-809
+Pp3c21_10520V3.3	tmhmm	False	0	out	
+Pp3c11_17010V3.3	tmhmm	False	0	out	
+Pp3c24_13770V3.8	tmhmm	False	0	out	
+Pp3c6_24130V3.3	tmhmm	False	0	out	
+Pp3c8_19010V3.4	tmhmm	False	0	out	
+Pp3c16_9230V3.6	tmhmm	False	0	out	
+Pp3c3_20030V3.3	tmhmm	False	0	out	
+Pp3c13_14440V3.4	tmhmm	False	0	out	
+Pp3c16_9230V3.7	tmhmm	False	0	out	
+Pp3c1_13300V3.1	tmhmm	False	0	out	
+Pp3c25_7380V3.2	tmhmm	False	0	out	
+Pp3c25_12300V3.5	tmhmm	False	0	out	
+Pp3c3_21060V3.17	tmhmm	False	0	out	
+Pp3c18_11770V3.6	tmhmm	False	0	out	
+Pp3c17_14350V3.3	tmhmm	False	0	out	
+Pp3c25_7410V3.2	tmhmm	False	0	out	
+Pp3c11_23370V3.2	tmhmm	False	0	out	
+Pp3c11_5280V3.2	tmhmm	False	0	out	
+Pp3c27_6760V3.1	tmhmm	False	0	out	
+Pp3c4_19510V3.6	tmhmm	False	0	out	
+Pp3c15_23590V3.3	tmhmm	False	0	out	
+Pp3c17_16550V3.7	tmhmm	False	0	out	
+Pp3c4_29810V3.4	tmhmm	False	0	out	
+Pp3c11_22570V3.1	tmhmm	False	0	out	
+Pp3c12_9920V3.3	tmhmm	False	0	out	
+Pp3c2_27490V3.2	tmhmm	False	0	out	
+Pp3c15_4950V3.2	tmhmm	False	0	out	
+Pp3c19_14710V3.1	tmhmm	False	0	out	
+Pp3c14_20090V3.2	tmhmm	False	0	out	
+Pp3c1_3750V3.1	tmhmm	False	0	out	
+Pp3c14_20090V3.3	tmhmm	False	0	out	
+Pp3c2_35860V3.7	tmhmm	False	0	out	
+Pp3c17_3610V3.4	tmhmm	False	0	in	
+Pp3c10_19380V3.1	tmhmm	False	0	out	
+Pp3c16_10320V3.3	tmhmm	False	0	out	
+Pp3c8_17100V3.12	tmhmm	False	0	out	
+Pp3c11_18840V3.4	tmhmm	False	0	out	
+Pp3c24_13770V3.6	tmhmm	False	0	out	
+Pp3c5_280V3.7	tmhmm	False	0	out	
+Pp3c3_28590V3.1	tmhmm	False	0	out	
+Pp3c6_27590V3.4	tmhmm	False	0	out	
+Pp3c1_34190V3.3	tmhmm	False	0	out	
+Pp3c16_20970V3.2	tmhmm	False	0	out	
+Pp3c24_19330V3.4	tmhmm	False	0	out	
+Pp3c16_9230V3.2	tmhmm	False	0	out	
+Pp3c5_20850V3.1	tmhmm	False	0	out	
+Pp3c5_22610V3.3	tmhmm	False	0	out	
+Pp3c3_19510V3.1	tmhmm	False	0	out	
+Pp3c8_17100V3.14	tmhmm	False	0	out	
+Pp3c4_21970V3.5	tmhmm	False	0	out	
+Pp3c8_17710V3.4	tmhmm	False	0	out	
+Pp3c7_5970V3.2	tmhmm	False	0	out	
+Pp3c5_12767V3.1	tmhmm	False	0	out	
+Pp3c22_5980V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.2	tmhmm	False	0	out	
+Pp3s504_10V3.5	tmhmm	False	0	out	
+Pp3c14_17210V3.17	tmhmm	False	0	out	
+Pp3c10_2450V3.3	tmhmm	False	0	out	
+Pp3c14_17210V3.19	tmhmm	False	0	out	
+Pp3c7_5929V3.4	tmhmm	False	0	out	
+Pp3c20_6140V3.12	tmhmm	False	0	out	
+Pp3c9_19210V3.6	tmhmm	False	0	in	
+Pp3c11_12900V3.2	tmhmm	False	0	out	
+Pp3c22_13550V3.2	tmhmm	False	0	out	
+Pp3c5_19514V3.1	tmhmm	False	0	out	
+Pp3c19_860V3.3	tmhmm	False	0	out	
+Pp3c8_17100V3.17	tmhmm	False	0	out	
+Pp3c1_22230V3.2	tmhmm	False	0	out	
+Pp3c6_4460V3.3	tmhmm	False	0	out	
+Pp3c5_19090V3.1	tmhmm	False	0	out	
+Pp3c19_9910V3.2	tmhmm	False	0	out	
+Pp3c4_16880V3.2	tmhmm	False	0	out	
+Pp3c1_17370V3.3	tmhmm	False	0	out	
+Pp3c5_280V3.1	tmhmm	False	0	out	
+Pp3c5_5030V3.1	tmhmm	False	0	out	
+Pp3c1_11190V3.1	tmhmm	False	0	out	
+Pp3c14_22150V3.3	tmhmm	False	0	out	
+Pp3c24_13770V3.1	tmhmm	False	0	out	
+Pp3c16_9230V3.1	tmhmm	False	0	out	
+Pp3c7_24660V3.4	tmhmm	False	0	in	
+Pp3c3_20030V3.1	tmhmm	False	0	out	
+Pp3c24_8230V3.4	tmhmm	False	0	out	
+Pp3c7_24660V3.6	tmhmm	False	0	in	
+Pp3c24_15860V3.2	tmhmm	False	0	out	
+Pp3c20_17000V3.1	tmhmm	False	0	out	
+Pp3c17_14350V3.1	tmhmm	False	0	out	
+Pp3c17_7580V3.3	tmhmm	False	0	out	
+Pp3c4_21970V3.1	tmhmm	False	0	out	
+Pp3c13_4450V3.3	tmhmm	False	0	out	
+Pp3c17_16550V3.3	tmhmm	False	0	out	
+Pp3c21_12190V3.6	tmhmm	False	0	out	
+Pp3c17_7580V3.4	tmhmm	False	0	out	
+Pp3c16_10320V3.4	tmhmm	False	0	out	
+Pp3c13_4470V3.1	tmhmm	False	0	out	
+Pp3c6_24360V3.1	tmhmm	False	0	out	
+Pp3c18_11770V3.4	tmhmm	False	0	out	
+Pp3c8_3310V3.2	tmhmm	False	0	out	
+Pp3c27_5970V3.1	tmhmm	False	0	out	
+Pp3c17_7580V3.1	tmhmm	False	0	out	
+Pp3c4_1630V3.1	tmhmm	False	0	out	
+Pp3c14_16890V3.1	tmhmm	False	0	out	
+Pp3c2_31290V3.2	tmhmm	False	0	out	
+Pp3c17_8330V3.6	tmhmm	False	0	out	
+Pp3c12_9920V3.1	tmhmm	False	3	in	8-30,40-62,171-193
+Pp3s58_140V3.1	tmhmm	False	0	out	
+Pp3c5_19940V3.3	tmhmm	False	0	out	
+Pp3c19_16350V3.1	tmhmm	False	0	out	
+Pp3c19_20670V3.6	tmhmm	False	0	out	
+Pp3c7_5929V3.19	tmhmm	False	0	out	
+Pp3c1_28750V3.3	tmhmm	False	0	out	
+Pp3c21_12190V3.4	tmhmm	False	0	out	
+Pp3c8_18530V3.2	tmhmm	False	0	out	
+Pp3c18_9600V3.1	tmhmm	False	0	out	
+Pp3c2_35860V3.8	tmhmm	False	0	out	
+Pp3c2_17910V3.2	tmhmm	False	0	out	
+Pp3c1_860V3.2	tmhmm	False	0	out	
+Pp3c1_35770V3.4	tmhmm	False	0	out	
+Pp3c5_22320V3.2	tmhmm	False	0	out	
+Pp3c7_8710V3.5	tmhmm	False	0	out	
+Pp3c2_35750V3.3	tmhmm	False	0	out	
+Pp3c18_1260V3.1	tmhmm	False	1	in	6-28
+Pp3c4_9940V3.2	tmhmm	False	0	out	
+Pp3c6_17350V3.3	tmhmm	False	0	out	
+Pp3c1_35770V3.2	tmhmm	False	0	out	
+Pp3c10_16040V3.5	tmhmm	False	0	out	
+Pp3c11_18940V3.5	tmhmm	False	0	out	
+Pp3c11_5280V3.12	tmhmm	False	0	out	
+Pp3c16_14340V3.4	tmhmm	False	0	out	
+Pp3c1_33770V3.4	tmhmm	False	0	out	
+Pp3c14_20090V3.11	tmhmm	False	0	out	
+Pp3c14_20090V3.1	tmhmm	False	0	out	
+Pp3c14_19990V3.1	tmhmm	False	0	out	
+Pp3c1_22210V3.2	tmhmm	False	0	out	
+Pp3c3_20130V3.1	tmhmm	False	0	out	
+Pp3c21_10800V3.3	tmhmm	False	0	out	
+Pp3c1_33770V3.10	tmhmm	False	0	out	
+Pp3c11_17010V3.1	tmhmm	False	0	out	
+Pp3c3_5520V3.2	tmhmm	False	0	out	
+Pp3c3_37660V3.3	tmhmm	False	0	out	
+Pp3c11_23370V3.5	tmhmm	False	0	out	
+Pp3c13_2290V3.2	tmhmm	False	0	out	
+Pp3c24_8230V3.1	tmhmm	False	0	out	
+Pp3c26_13780V3.2	tmhmm	False	0	out	
+Pp3c3_28590V3.2	tmhmm	False	0	out	
+Pp3c6_17350V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.5	tmhmm	False	0	out	
+Pp3c11_7230V3.3	tmhmm	False	0	out	
+Pp3s34_420V3.4	tmhmm	False	0	out	
+Pp3c18_1260V3.4	tmhmm	False	1	in	6-28
+Pp3c16_210V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.12	tmhmm	False	0	out	
+Pp3c15_5070V3.2	tmhmm	False	0	out	
+Pp3c7_8560V3.1	tmhmm	False	0	out	
+Pp3c8_19010V3.1	tmhmm	False	0	out	
+Pp3c19_20670V3.8	tmhmm	False	0	out	
+Pp3c8_3980V3.1	tmhmm	False	0	out	
+Pp3c4_29810V3.9	tmhmm	False	0	out	
+Pp3c18_16090V3.2	tmhmm	False	0	out	
+Pp3c14_17210V3.7	tmhmm	False	0	out	
+Pp3c20_6140V3.3	tmhmm	False	0	out	
+Pp3c8_19010V3.2	tmhmm	False	0	out	
+Pp3c5_19090V3.2	tmhmm	False	0	out	
+Pp3c13_15090V3.14	tmhmm	False	0	out	
+Pp3c11_22390V3.3	tmhmm	False	0	out	
+Pp3c4_16880V3.6	tmhmm	False	0	out	
+Pp3c12_21560V3.1	tmhmm	False	0	out	
+Pp3c3_23770V3.7	tmhmm	False	0	out	
+Pp3c4_21970V3.2	tmhmm	False	0	out	
+Pp3c6_27590V3.6	tmhmm	False	0	out	
+Pp3s92_30V3.1	tmhmm	False	0	out	
+Pp3c8_17100V3.10	tmhmm	False	0	out	
+Pp3c11_5280V3.4	tmhmm	False	0	out	
+Pp3c16_4220V3.3	tmhmm	False	0	out	
+Pp3c13_4450V3.1	tmhmm	False	0	out	
+Pp3c15_12800V3.1	tmhmm	False	0	out	
+Pp3c1_33770V3.3	tmhmm	False	0	out	
+Pp3c13_19810V3.1	tmhmm	False	0	out	
+Pp3c7_10240V3.1	tmhmm	False	0	out	
+Pp3c12_280V3.4	tmhmm	False	1	in	262-264
+Pp3c7_24660V3.5	tmhmm	False	0	in	
+Pp3c15_23590V3.4	tmhmm	False	0	out	
+Pp3c1_22210V3.4	tmhmm	False	0	out	
+Pp3c6_8120V3.4	tmhmm	False	0	out	
+Pp3c20_4650V3.1	tmhmm	False	0	out	
+Pp3c3_14470V3.2	tmhmm	False	0	out	
+Pp3c12_13280V3.2	tmhmm	False	0	out	
+Pp3c1_12170V3.1	tmhmm	False	0	out	
+Pp3c20_15200V3.2	tmhmm	False	0	out	
+Pp3c3_23680V3.2	tmhmm	False	0	out	
+Pp3c7_2900V3.1	tmhmm	False	0	out	
+Pp3c3_34180V3.4	tmhmm	False	0	out	
+Pp3c11_24880V3.3	tmhmm	False	0	out	
+Pp3c10_11390V3.5	tmhmm	False	0	out	
+Pp3c14_22150V3.4	tmhmm	False	0	out	
+Pp3c2_37790V3.2	tmhmm	False	0	out	
+Pp3c7_11520V3.1	tmhmm	False	0	out	
+Pp3c14_18840V3.1	tmhmm	False	0	out	
+Pp3c26_4720V3.2	tmhmm	False	0	out	
+Pp3c11_18940V3.3	tmhmm	False	0	out	
+Pp3c8_18540V3.4	tmhmm	False	0	out	
+Pp3c18_1260V3.5	tmhmm	False	1	in	6-28
+Pp3c25_3220V3.1	tmhmm	False	0	out	
+Pp3c3_23770V3.8	tmhmm	False	0	out	
+Pp3c1_3700V3.1	tmhmm	False	0	out	
+Pp3c7_10240V3.3	tmhmm	False	0	out	
+Pp3c18_1260V3.8	tmhmm	False	1	in	6-28
+Pp3c26_180V3.3	tmhmm	False	0	out	
+Pp3c3_17380V3.1	tmhmm	False	0	out	
+Pp3c7_20570V3.2	tmhmm	False	0	out	
+Pp3c11_22390V3.1	tmhmm	False	0	out	
+Pp3c11_18840V3.2	tmhmm	False	0	out	
+Pp3c13_15090V3.15	tmhmm	False	0	out	
+Pp3c2_13990V3.1	tmhmm	False	0	out	
+Pp3c4_21590V3.2	tmhmm	False	0	in	
+Pp3c14_11190V3.3	tmhmm	False	0	out	
+Pp3c6_10210V3.4	tmhmm	False	0	out	
+Pp3c16_20970V3.1	tmhmm	False	0	out	
+Pp3c4_21970V3.3	tmhmm	False	0	out	
+Pp3c1_4600V3.2	tmhmm	False	0	out	
+Pp3c14_6480V3.6	tmhmm	False	0	out	
+Pp3c3_23770V3.6	tmhmm	False	0	out	
+Pp3c14_20090V3.6	tmhmm	False	0	out	
+Pp3c26_180V3.5	tmhmm	False	0	out	
+Pp3c3_37660V3.1	tmhmm	False	0	out	
+Pp3c14_6480V3.4	tmhmm	False	0	out	
+Pp3c1_37090V3.4	tmhmm	False	0	out	
+Pp3c11_5280V3.9	tmhmm	False	0	out	
+Pp3c19_7630V3.3	tmhmm	False	0	out	
+Pp3c18_17900V3.2	tmhmm	False	0	out	
+Pp3c1_35410V3.2	tmhmm	False	0	out	
+Pp3c8_250V3.1	tmhmm	False	0	out	
+Pp3c1_33770V3.2	tmhmm	False	0	out	
+Pp3c5_16090V3.4	tmhmm	False	0	out	
+Pp3c1_8530V3.3	tmhmm	False	0	out	
+Pp3c8_17100V3.13	tmhmm	False	0	out	
+Pp3c25_13620V3.2	tmhmm	False	0	out	
+Pp3c6_10390V3.3	tmhmm	False	0	out	
+Pp3c13_22780V3.3	tmhmm	False	0	out	
+Pp3c11_18940V3.6	tmhmm	False	0	out	
+Pp3c3_14470V3.3	tmhmm	False	0	out	
+Pp3c13_21910V3.5	tmhmm	False	0	out	
+Pp3c19_7560V3.4	tmhmm	False	0	out	
+Pp3c8_2040V3.5	tmhmm	False	0	out	
+Pp3c3_11220V3.1	tmhmm	False	0	out	
+Pp3c16_14340V3.2	tmhmm	False	0	out	
+Pp3c16_4220V3.4	tmhmm	False	0	out	
+Pp3c1_12290V3.1	tmhmm	False	0	out	
+Pp3c27_6760V3.3	tmhmm	False	0	out	
+Pp3c3_23770V3.5	tmhmm	False	0	out	
+Pp3c11_18940V3.1	tmhmm	False	0	out	
+Pp3c19_20670V3.3	tmhmm	False	0	out	
+Pp3c21_5060V3.2	tmhmm	False	0	out	
+Pp3c18_16090V3.3	tmhmm	False	0	out	
+Pp3c2_31650V3.5	tmhmm	False	0	out	
+Pp3c2_4060V3.3	tmhmm	False	0	out	
+Pp3c13_19680V3.1	tmhmm	False	0	out	
+Pp3c11_22580V3.2	tmhmm	False	0	out	
+Pp3c26_180V3.1	tmhmm	False	0	out	
+Pp3c16_3320V3.4	tmhmm	False	0	out	
+Pp3c2_22420V3.3	tmhmm	False	0	out	
+Pp3c23_4150V3.2	tmhmm	False	0	out	
+Pp3c13_15090V3.7	tmhmm	False	0	out	
+Pp3c14_26590V3.1	tmhmm	False	0	out	
+Pp3c11_24630V3.2	tmhmm	False	0	out	
+Pp3c14_17210V3.3	tmhmm	False	0	out	
+Pp3c19_20670V3.7	tmhmm	False	0	out	
+Pp3c6_27590V3.1	tmhmm	False	0	out	
+Pp3c15_3710V3.3	tmhmm	False	0	out	
+Pp3c16_14340V3.1	tmhmm	False	0	out	
+Pp3c2_30835V3.1	tmhmm	False	0	out	
+Pp3c14_2780V3.1	tmhmm	False	0	out	
+Pp3c1_13308V3.5	tmhmm	False	0	out	
+Pp3c25_7380V3.3	tmhmm	False	0	out	
+Pp3c7_5929V3.16	tmhmm	False	0	out	
+Pp3c1_34190V3.4	tmhmm	False	0	out	
+Pp3c4_26780V3.3	tmhmm	False	0	out	
+Pp3c14_2481V3.2	tmhmm	False	0	out	
+Pp3c2_35520V3.2	tmhmm	False	0	out	
+Pp3c8_17100V3.15	tmhmm	False	0	out	
+Pp3c4_9720V3.4	tmhmm	False	0	out	
+Pp3c5_19940V3.1	tmhmm	False	0	out	
+Pp3c7_24670V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.11	tmhmm	False	0	out	
+Pp3c17_16550V3.6	tmhmm	False	0	out	
+Pp3c20_6140V3.5	tmhmm	False	0	out	
+Pp3c16_10290V3.1	tmhmm	False	0	out	
+Pp3c1_35770V3.6	tmhmm	False	0	out	
+Pp3c20_6140V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.1	tmhmm	False	0	out	
+Pp3c23_4150V3.1	tmhmm	False	0	out	
+Pp3c4_7160V3.1	tmhmm	False	0	out	
+Pp3c6_21780V3.1	tmhmm	False	0	out	
+Pp3c24_9610V3.2	tmhmm	False	0	out	
+Pp3c21_12190V3.2	tmhmm	False	0	out	
+Pp3c1_6380V3.1	tmhmm	False	0	out	
+Pp3c12_25750V3.3	tmhmm	False	0	out	
+Pp3c13_15090V3.17	tmhmm	False	0	out	
+Pp3c18_9600V3.5	tmhmm	False	0	out	
+Pp3c13_15090V3.8	tmhmm	False	0	out	
+Pp3c13_2290V3.1	tmhmm	False	0	out	
+Pp3c1_33770V3.11	tmhmm	False	0	out	
+Pp3c24_9610V3.4	tmhmm	False	0	out	
+Pp3c7_5929V3.15	tmhmm	False	0	out	
+Pp3c10_1790V3.3	tmhmm	False	0	out	
+Pp3c19_20670V3.4	tmhmm	False	0	out	
+Pp3c2_22420V3.4	tmhmm	False	0	out	
+Pp3c1_22230V3.1	tmhmm	False	0	out	
+Pp3c1_35410V3.3	tmhmm	False	0	out	
+Pp3c6_15100V3.4	tmhmm	False	0	out	
+Pp3c2_4060V3.2	tmhmm	False	0	out	
+Pp3c15_11610V3.2	tmhmm	False	0	out	
+Pp3c8_2040V3.2	tmhmm	False	0	out	
+Pp3c2_7410V3.2	tmhmm	False	0	out	
+Pp3c12_280V3.6	tmhmm	False	0	out	
+Pp3c11_23530V3.5	tmhmm	False	0	out	
+Pp3c20_17000V3.2	tmhmm	False	0	out	
+Pp3c6_27590V3.5	tmhmm	False	0	out	
+Pp3c2_31290V3.3	tmhmm	False	0	out	
+Pp3c2_11030V3.2	tmhmm	False	0	out	
+Pp3c6_24130V3.2	tmhmm	False	0	out	
+Pp3c2_17910V3.4	tmhmm	False	0	out	
+Pp3c14_11190V3.7	tmhmm	False	0	out	
+Pp3c1_17370V3.2	tmhmm	False	0	out	
+Pp3c21_10800V3.2	tmhmm	False	0	out	
+Pp3c18_15340V3.8	tmhmm	False	0	out	
+Pp3c1_35770V3.1	tmhmm	False	0	out	
+Pp3c13_17210V3.2	tmhmm	False	0	out	
+Pp3c3_34180V3.1	tmhmm	False	0	out	
+Pp3c14_11190V3.5	tmhmm	False	0	out	
+Pp3c2_31290V3.4	tmhmm	False	0	out	
+Pp3c19_20670V3.5	tmhmm	False	0	out	
+Pp3c14_21766V3.1	tmhmm	False	0	out	
+Pp3c2_8360V3.5	tmhmm	False	0	out	
+Pp3c4_16880V3.5	tmhmm	False	0	out	
+Pp3c1_12290V3.4	tmhmm	False	0	out	
+Pp3c8_3980V3.4	tmhmm	False	0	out	
+Pp3c6_27590V3.2	tmhmm	False	0	out	
+Pp3c20_6140V3.9	tmhmm	False	0	out	
+Pp3c7_2870V3.1	tmhmm	False	0	out	
+Pp3c1_37090V3.2	tmhmm	False	0	out	
+Pp3c20_6140V3.6	tmhmm	False	0	out	
+Pp3c3_21060V3.14	tmhmm	False	0	out	
+Pp3c24_6610V3.2	tmhmm	False	0	out	
+Pp3c13_4450V3.4	tmhmm	False	0	out	
+Pp3c1_11190V3.3	tmhmm	False	0	out	
+Pp3c11_24630V3.1	tmhmm	False	0	out	
+Pp3c6_7710V3.2	tmhmm	False	0	out	
+Pp3c3_21060V3.16	tmhmm	False	0	out	
+Pp3c1_8820V3.3	tmhmm	False	0	out	
+Pp3c1_4600V3.3	tmhmm	False	0	out	
+Pp3c1_13308V3.4	tmhmm	False	0	out	
+Pp3c13_15090V3.18	tmhmm	False	0	out	
+Pp3c2_3880V3.1	tmhmm	False	0	out	
+Pp3c6_24130V3.8	tmhmm	False	0	out	
+Pp3c2_11030V3.4	tmhmm	False	0	out	
+Pp3c16_12660V3.1	tmhmm	False	0	out	
+Pp3c8_17710V3.3	tmhmm	False	0	out	
+Pp3c25_7410V3.4	tmhmm	False	0	out	
+Pp3c1_29082V3.4	tmhmm	False	0	out	
+Pp3c11_1770V3.1	tmhmm	False	0	out	
+Pp3c5_24460V3.2	tmhmm	False	0	out	
+Pp3c13_17210V3.1	tmhmm	False	0	out	
+Pp3c22_7900V3.2	tmhmm	False	0	out	
+Pp3c16_10320V3.2	tmhmm	False	0	out	
+Pp3c13_13210V3.2	tmhmm	False	0	out	
+Pp3c14_90V3.2	tmhmm	False	0	out	
+Pp3c10_19380V3.2	tmhmm	False	0	out	
+Pp3c6_4460V3.5	tmhmm	False	0	out	
+Pp3s34_420V3.2	tmhmm	False	0	out	
+Pp3c24_15860V3.1	tmhmm	False	0	out	
+Pp3c21_10800V3.1	tmhmm	False	0	out	
+Pp3c2_11030V3.3	tmhmm	False	0	out	
+Pp3c3_30220V3.2	tmhmm	False	0	out	
+Pp3c7_2900V3.4	tmhmm	False	0	out	
+Pp3c18_6090V3.5	tmhmm	False	0	out	
+Pp3c3_37640V3.1	tmhmm	False	0	out	
+Pp3c2_30835V3.2	tmhmm	False	0	out	
+Pp3c8_230V3.1	tmhmm	False	0	out	
+Pp3c5_19640V3.2	tmhmm	False	0	out	
+Pp3c18_9600V3.4	tmhmm	False	0	out	
+Pp3c25_240V3.1	tmhmm	False	0	out	
+Pp3c4_3810V3.3	tmhmm	False	0	out	
+Pp3c20_6140V3.14	tmhmm	False	0	out	
+Pp3c13_20600V3.3	tmhmm	False	0	out	
+Pp3c3_14470V3.1	tmhmm	False	0	out	
+Pp3c18_11770V3.8	tmhmm	False	0	out	
+Pp3c17_3610V3.5	tmhmm	False	0	in	
+Pp3c10_2450V3.11	tmhmm	False	0	out	
+Pp3c2_35860V3.12	tmhmm	False	0	out	
+Pp3c16_20970V3.3	tmhmm	False	0	out	
+Pp3c11_18790V3.1	tmhmm	False	0	out	
+Pp3c7_26020V3.1	tmhmm	False	0	out	
+Pp3c3_36750V3.4	tmhmm	False	0	out	
+Pp3c11_17010V3.4	tmhmm	False	0	out	
+Pp3c9_18800V3.1	tmhmm	False	0	out	
+Pp3c15_19270V3.2	tmhmm	False	0	out	
+Pp3c4_16880V3.3	tmhmm	False	0	out	
+Pp3c14_17210V3.16	tmhmm	False	0	out	
+Pp3c12_870V3.2	tmhmm	False	0	out	
+Pp3c14_18250V3.1	tmhmm	False	0	out	
+Pp3c6_27590V3.7	tmhmm	False	0	out	
+Pp3c14_6480V3.1	tmhmm	False	0	out	
+Pp3c12_21590V3.1	tmhmm	False	0	out	
+Pp3c11_5280V3.3	tmhmm	False	0	out	
+Pp3c15_19200V3.1	tmhmm	False	0	out	
+Pp3c15_14880V3.2	tmhmm	False	0	out	
+Pp3c10_6780V3.2	tmhmm	False	0	out	
+Pp3c27_5750V3.1	tmhmm	False	0	out	
+Pp3c14_20090V3.4	tmhmm	False	0	out	
+Pp3c4_8660V3.2	tmhmm	False	0	out	
+Pp3c1_33770V3.7	tmhmm	False	0	out	
+Pp3c2_9560V3.1	tmhmm	False	0	out	
+Pp3c21_15940V3.1	tmhmm	False	0	out	
+Pp3c3_37320V3.2	tmhmm	False	0	out	
+Pp3c26_5950V3.2	tmhmm	False	0	out	
+Pp3c2_35860V3.4	tmhmm	False	0	out	
+Pp3c6_6640V3.1	tmhmm	False	0	out	
+Pp3s46_220V3.1	tmhmm	False	0	out	
+Pp3c4_19510V3.3	tmhmm	False	0	out	
+Pp3c10_1790V3.6	tmhmm	False	0	out	
+Pp3c1_35410V3.1	tmhmm	False	0	out	
+Pp3c16_18950V3.4	tmhmm	False	0	out	
+Pp3c6_15100V3.1	tmhmm	False	0	out	
+Pp3c8_14720V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.7	tmhmm	False	0	out	
+Pp3c7_2900V3.3	tmhmm	False	0	out	
+Pp3c13_15090V3.4	tmhmm	False	0	out	
+Pp3c7_5929V3.12	tmhmm	False	0	out	
+Pp3c5_22610V3.4	tmhmm	False	0	out	
+Pp3c10_13800V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.4	tmhmm	False	0	out	
+Pp3c16_210V3.2	tmhmm	False	0	out	
+Pp3c16_12660V3.3	tmhmm	False	0	out	
+Pp3c12_9920V3.6	tmhmm	False	0	out	
+Pp3c18_1260V3.3	tmhmm	False	1	in	6-28
+Pp3c7_5929V3.1	tmhmm	False	0	out	
+Pp3c24_19330V3.3	tmhmm	False	0	out	
+Pp3c1_29082V3.1	tmhmm	False	0	out	
+Pp3c19_860V3.2	tmhmm	False	0	out	
+Pp3c2_35860V3.6	tmhmm	False	0	out	
+Pp3c8_19010V3.7	tmhmm	False	0	out	
+Pp3c2_4060V3.8	tmhmm	False	0	out	
+Pp3c26_1300V3.1	tmhmm	False	0	out	
+Pp3c13_23373V3.2	tmhmm	False	0	out	
+Pp3c5_19940V3.4	tmhmm	False	0	out	
+Pp3c21_14490V3.2	tmhmm	False	0	out	
+Pp3c1_3760V3.1	tmhmm	False	0	out	
+Pp3c11_24880V3.7	tmhmm	False	0	out	
+Pp3c4_26780V3.4	tmhmm	False	0	out	
+Pp3c8_2040V3.4	tmhmm	False	0	out	
+Pp3c10_13060V3.3	tmhmm	False	0	out	
+Pp3c1_34190V3.2	tmhmm	False	0	out	
+Pp3c19_7560V3.3	tmhmm	False	0	out	
+Pp3c16_16990V3.2	tmhmm	False	0	out	
+Pp3c18_3810V3.2	tmhmm	False	0	out	
+Pp3c8_21700V3.1	tmhmm	False	0	out	
+Pp3c7_5920V3.1	tmhmm	False	0	out	
+Pp3c9_8270V3.1	tmhmm	False	0	out	
+Pp3c18_13500V3.1	tmhmm	False	0	out	
+Pp3c19_10210V3.2	tmhmm	False	0	out	
+Pp3c2_12540V3.2	tmhmm	False	0	out	
+Pp3c27_3890V3.2	tmhmm	False	0	out	
+Pp3c14_2650V3.1	tmhmm	False	0	out	
+Pp3c11_23370V3.3	tmhmm	False	0	out	
+Pp3c7_5929V3.5	tmhmm	False	0	out	
+Pp3c15_3710V3.2	tmhmm	False	0	out	
+Pp3c2_31290V3.1	tmhmm	False	0	out	
+Pp3c4_21970V3.6	tmhmm	False	0	out	
+Pp3c24_6610V3.1	tmhmm	False	0	out	
+Pp3c2_4871V3.1	tmhmm	False	0	out	
+Pp3c2_35750V3.2	tmhmm	False	0	out	
+Pp3c11_17010V3.5	tmhmm	False	0	out	
+Pp3c20_6140V3.11	tmhmm	False	0	out	
+Pp3c4_1631V3.5	tmhmm	False	0	out	
+Pp3c14_2481V3.1	tmhmm	False	0	out	
+Pp3c8_14490V3.3	tmhmm	False	0	out	
+Pp3c14_17210V3.4	tmhmm	False	0	out	
+Pp3c17_18070V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.15	tmhmm	False	0	out	
+Pp3c13_20600V3.2	tmhmm	False	0	out	
+Pp3c10_16040V3.1	tmhmm	False	0	out	
+Pp3c27_4220V3.1	tmhmm	False	0	out	
+Pp3c5_19640V3.1	tmhmm	False	0	out	
+Pp3c5_280V3.3	tmhmm	False	0	out	
+Pp3c5_280V3.4	tmhmm	False	0	out	
+Pp3c25_7380V3.1	tmhmm	False	0	out	
+Pp3c16_20970V3.6	tmhmm	False	0	out	
+Pp3c8_3980V3.2	tmhmm	False	0	out	
+Pp3c5_20190V3.2	tmhmm	False	0	out	
+Pp3c13_21910V3.4	tmhmm	False	0	out	
+Pp3c4_29810V3.3	tmhmm	False	0	out	
+Pp3c10_16040V3.3	tmhmm	False	0	out	
+Pp3c16_18950V3.7	tmhmm	False	0	out	
+Pp3c12_9920V3.2	tmhmm	False	0	out	
+Pp3c25_12300V3.4	tmhmm	False	0	out	
+Pp3c25_10710V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.10	tmhmm	False	0	out	
+Pp3c8_14490V3.4	tmhmm	False	0	out	
+Pp3c26_5450V3.1	tmhmm	False	0	out	
+Pp3c5_5030V3.3	tmhmm	False	0	out	
+Pp3c3_20130V3.3	tmhmm	False	0	out	
+Pp3c14_6480V3.2	tmhmm	False	0	out	
+Pp3c16_20970V3.7	tmhmm	False	0	out	
+Pp3c2_17910V3.1	tmhmm	False	0	out	
+Pp3c14_19990V3.2	tmhmm	False	0	out	
+Pp3c12_13280V3.3	tmhmm	False	0	out	
+Pp3c24_19330V3.5	tmhmm	False	0	out	
+Pp3c8_2040V3.3	tmhmm	False	0	out	
+Pp3c17_350V3.1	tmhmm	False	0	out	
+Pp3c8_18540V3.8	tmhmm	False	0	out	
+Pp3s34_620V3.1	tmhmm	False	0	out	
+Pp3c15_5070V3.1	tmhmm	False	0	out	
+Pp3c1_28750V3.1	tmhmm	False	0	out	
+Pp3c10_2450V3.9	tmhmm	False	0	out	
+Pp3c1_8530V3.2	tmhmm	False	0	out	
+Pp3c22_17280V3.2	tmhmm	False	0	out	
+Pp3c17_19520V3.3	tmhmm	False	0	out	
+Pp3c18_19045V3.1	tmhmm	False	0	out	
+Pp3c12_9920V3.5	tmhmm	False	0	out	
+Pp3c1_33770V3.9	tmhmm	False	0	out	
+Pp3c19_9910V3.1	tmhmm	False	0	out	
+Pp3c14_11190V3.4	tmhmm	False	0	out	
+Pp3c1_12290V3.5	tmhmm	False	0	out	
+Pp3c18_6090V3.6	tmhmm	False	0	out	
+Pp3c11_23530V3.4	tmhmm	False	0	out	
+Pp3c1_32380V3.1	tmhmm	False	0	out	
+Pp3c3_28590V3.3	tmhmm	False	0	out	
+Pp3c17_18070V3.3	tmhmm	False	0	out	
+Pp3c14_17210V3.2	tmhmm	False	0	out	
+Pp3c4_16880V3.1	tmhmm	False	0	out	
+Pp3c14_20090V3.7	tmhmm	False	0	out	
+Pp3c16_17020V3.3	tmhmm	False	0	out	
+Pp3c21_10520V3.2	tmhmm	False	0	out	
+Pp3c8_14490V3.2	tmhmm	False	0	out	
+Pp3c21_19030V3.3	tmhmm	False	0	out	
+Pp3c1_860V3.6	tmhmm	False	0	out	
+Pp3c26_12150V3.1	tmhmm	False	0	out	
+Pp3c8_17710V3.1	tmhmm	False	0	out	
+Pp3c14_18250V3.3	tmhmm	False	0	out	
+Pp3c11_5280V3.10	tmhmm	False	0	out	
+Pp3c3_23680V3.1	tmhmm	False	0	out	
+Pp3c6_27590V3.8	tmhmm	False	0	out	
+Pp3c10_2450V3.17	tmhmm	False	0	out	
+Pp3c10_1790V3.5	tmhmm	False	0	out	
+Pp3c18_11770V3.7	tmhmm	False	0	out	
+Pp3c14_11190V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.3	tmhmm	False	0	out	
+Pp3c17_7580V3.2	tmhmm	False	0	out	
+Pp3c7_11520V3.5	tmhmm	False	0	out	
+Pp3s504_10V3.2	tmhmm	False	0	out	
+Pp3c11_22580V3.1	tmhmm	False	0	out	
+Pp3c2_31650V3.1	tmhmm	False	0	out	
+Pp3c13_24550V3.1	tmhmm	False	0	out	
+Pp3c19_10210V3.7	tmhmm	False	0	out	
+Pp3c10_1790V3.4	tmhmm	False	0	out	
+Pp3c16_17020V3.2	tmhmm	False	0	out	
+Pp3c1_37090V3.3	tmhmm	False	0	out	
+Pp3c10_6710V3.1	tmhmm	False	0	out	
+Pp3c10_13060V3.4	tmhmm	False	0	out	
+Pp3c5_22610V3.2	tmhmm	False	0	out	
+Pp3c18_19045V3.3	tmhmm	False	0	out	
+Pp3c7_5929V3.6	tmhmm	False	0	out	
+Pp3c3_21060V3.10	tmhmm	False	0	out	
+Pp3c6_15430V3.3	tmhmm	False	0	out	
+Pp3c16_16990V3.1	tmhmm	False	0	out	
+Pp3c2_9560V3.2	tmhmm	False	0	out	
+Pp3c18_19040V3.1	tmhmm	False	0	out	
+Pp3c24_13770V3.5	tmhmm	False	0	out	
+Pp3c6_10390V3.1	tmhmm	False	0	out	
+Pp3c8_18540V3.9	tmhmm	False	0	out	
+Pp3c10_11390V3.4	tmhmm	False	0	out	
+Pp3c3_34180V3.3	tmhmm	False	0	out	
+Pp3c6_10390V3.6	tmhmm	False	0	out	
+Pp3c6_4460V3.2	tmhmm	False	0	out	
+Pp3c20_6140V3.4	tmhmm	False	0	out	
+Pp3c13_15090V3.11	tmhmm	False	0	out	
+Pp3c3_36750V3.5	tmhmm	False	0	out	
+Pp3c13_22780V3.1	tmhmm	False	0	out	
+Pp3c13_22780V3.2	tmhmm	False	0	out	
+Pp3c18_1260V3.9	tmhmm	False	1	in	6-28
+Pp3c1_28750V3.2	tmhmm	False	0	out	
+Pp3c1_36240V3.2	tmhmm	False	0	out	
+Pp3c14_2780V3.2	tmhmm	False	0	out	
+Pp3c8_18540V3.2	tmhmm	False	0	out	
+Pp3c4_21200V3.2	tmhmm	False	0	out	
+Pp3c14_11190V3.2	tmhmm	False	0	out	
+Pp3c3_21060V3.1	tmhmm	False	0	out	
+Pp3c11_22570V3.6	tmhmm	False	0	out	
+Pp3c2_27490V3.3	tmhmm	False	0	out	
+Pp3c19_7560V3.1	tmhmm	False	0	out	
+Pp3c9_8270V3.6	tmhmm	False	0	out	
+Pp3c4_3810V3.1	tmhmm	False	0	out	
+Pp3c3_20030V3.2	tmhmm	False	0	out	
+Pp3c7_5929V3.13	tmhmm	False	0	out	
+Pp3c6_3500V3.1	tmhmm	False	0	out	
+Pp3c6_15100V3.2	tmhmm	False	0	out	
+Pp3c27_5750V3.2	tmhmm	False	1	in	225-244
+Pp3c16_20970V3.8	tmhmm	False	0	out	
+Pp3c2_4060V3.6	tmhmm	False	0	out	
+Pp3c19_11580V3.5	tmhmm	False	0	out	
+Pp3c5_19940V3.5	tmhmm	False	0	out	
+Pp3c11_8530V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.3	tmhmm	False	0	out	
+Pp3c1_31190V3.1	tmhmm	False	0	out	
+Pp3c2_4060V3.7	tmhmm	False	0	out	
+Pp3c16_15610V3.1	tmhmm	False	0	out	
+Pp3c24_16180V3.3	tmhmm	False	0	out	
+Pp3c1_34190V3.5	tmhmm	False	0	out	
+Pp3c9_8270V3.3	tmhmm	False	0	out	
+Pp3c3_21060V3.8	tmhmm	False	0	out	
+Pp3c14_17210V3.18	tmhmm	False	0	out	
+Pp3c19_10210V3.8	tmhmm	False	0	out	
+Pp3c10_24570V3.1	tmhmm	False	0	out	
+Pp3c18_1260V3.7	tmhmm	False	1	in	6-28
+Pp3c8_19010V3.3	tmhmm	False	0	out	
+Pp3c12_9920V3.7	tmhmm	False	0	out	
+Pp3c6_17350V3.4	tmhmm	False	0	out	
+Pp3c12_21590V3.2	tmhmm	False	0	out	
+Pp3c13_15090V3.12	tmhmm	False	0	out	
+Pp3c1_860V3.4	tmhmm	False	0	out	
+Pp3c14_6480V3.7	tmhmm	False	0	out	
+Pp3c14_17210V3.15	tmhmm	False	0	out	
+Pp3c10_2450V3.8	tmhmm	False	0	out	
+Pp3c24_8230V3.5	tmhmm	False	0	out	
+Pp3c1_22210V3.3	tmhmm	False	0	out	
+Pp3c15_19200V3.2	tmhmm	False	0	out	
+Pp3c1_110V3.1	tmhmm	False	0	out	
+Pp3c11_8530V3.2	tmhmm	False	0	out	
+Pp3c6_8120V3.3	tmhmm	False	0	out	
+Pp3c1_38360V3.1	tmhmm	False	0	in	
+Pp3c10_2450V3.14	tmhmm	False	0	out	
+Pp3c22_22940V3.3	tmhmm	False	0	out	
+Pp3c19_10210V3.5	tmhmm	False	0	out	
+Pp3c15_18060V3.3	tmhmm	False	0	out	
+Pp3c13_4610V3.1	tmhmm	False	0	in	
+Pp3c4_29810V3.7	tmhmm	False	0	out	
+Pp3c19_11580V3.6	tmhmm	False	0	out	
+Pp3c16_17020V3.1	tmhmm	False	0	out	
+Pp3c15_5060V3.2	tmhmm	False	0	out	
+Pp3c13_15090V3.6	tmhmm	False	0	out	
+Pp3c18_3810V3.3	tmhmm	False	0	out	
+Pp3c6_12160V3.1	tmhmm	False	0	out	
+Pp3c21_10800V3.4	tmhmm	False	0	out	
+Pp3c7_24660V3.8	tmhmm	False	0	in	
+Pp3c1_34190V3.1	tmhmm	False	0	out	
+Pp3c14_2500V3.1	tmhmm	False	0	out	
+Pp3c2_9470V3.2	tmhmm	False	0	out	
+Pp3c1_13308V3.3	tmhmm	False	0	out	
+Pp3c13_4600V3.2	tmhmm	False	0	out	
+Pp3c5_5030V3.2	tmhmm	False	0	out	
+Pp3c8_14940V3.2	tmhmm	False	0	out	
+Pp3c6_24130V3.9	tmhmm	False	0	out	
+Pp3s504_10V3.1	tmhmm	False	0	out	
+Pp3c7_24660V3.1	tmhmm	False	0	in	
+Pp3c1_33770V3.6	tmhmm	False	0	out	
+Pp3c19_7630V3.2	tmhmm	False	0	out	
+Pp3c12_9920V3.4	tmhmm	False	0	out	
+Pp3c8_17100V3.6	tmhmm	False	0	out	
+Pp3c10_2280V3.2	tmhmm	False	1	out	1840-1861
+Pp3c18_15340V3.1	tmhmm	False	0	out	
+Pp3c16_16990V3.3	tmhmm	False	0	out	
+Pp3c21_19030V3.1	tmhmm	False	0	out	
+Pp3c25_4520V3.3	tmhmm	False	0	out	
+Pp3c13_16380V3.2	tmhmm	False	0	out	
+Pp3c7_2140V3.1	tmhmm	False	0	out	
+Pp3c14_17210V3.13	tmhmm	False	0	out	
+Pp3c24_16720V3.2	tmhmm	False	0	out	
+Pp3c3_27330V3.1	tmhmm	False	0	out	
+Pp3c26_5950V3.3	tmhmm	False	0	out	
+Pp3c15_21210V3.1	tmhmm	False	0	out	
+Pp3c1_35410V3.4	tmhmm	False	0	out	
+Pp3c21_12190V3.3	tmhmm	False	0	out	
+Pp3c18_11770V3.1	tmhmm	False	0	out	
+Pp3c2_35420V3.1	tmhmm	False	0	out	
+Pp3c2_8360V3.4	tmhmm	False	0	out	
+Pp3c2_32500V3.1	tmhmm	False	0	out	
+Pp3c6_4460V3.4	tmhmm	False	0	out	
+Pp3c13_8050V3.2	tmhmm	False	0	out	
+Pp3c8_25400V3.1	tmhmm	False	0	out	
+Pp3c17_14350V3.2	tmhmm	False	0	out	
+Pp3c18_9600V3.3	tmhmm	False	0	out	
+Pp3c3_23770V3.1	tmhmm	False	0	out	
+Pp3c8_14940V3.3	tmhmm	False	0	out	
+Pp3c5_5030V3.4	tmhmm	False	0	out	
+Pp3c10_2450V3.1	tmhmm	False	0	out	
+Pp3c1_33770V3.12	tmhmm	False	0	out	
+Pp3c3_27330V3.2	tmhmm	False	0	out	
+Pp3c8_18540V3.6	tmhmm	False	0	out	
+Pp3c24_19330V3.2	tmhmm	False	0	out	
+Pp3c24_16180V3.2	tmhmm	False	0	out	
+Pp3c8_3310V3.1	tmhmm	False	0	out	
+Pp3c10_2450V3.2	tmhmm	False	0	out	
+Pp3c15_6140V3.2	tmhmm	False	0	out	
+Pp3c5_24460V3.1	tmhmm	False	0	out	
+Pp3c5_19940V3.2	tmhmm	False	0	out	
+Pp3c2_10000V3.1	tmhmm	False	0	out	
+Pp3c3_11220V3.4	tmhmm	False	2	in	142-164,174-196
+Pp3c10_6780V3.1	tmhmm	False	0	out	
+Pp3c4_29810V3.13	tmhmm	False	0	out	
+Pp3c18_9600V3.2	tmhmm	False	0	out	
+Pp3c14_17210V3.11	tmhmm	False	0	out	
+Pp3c4_21590V3.1	tmhmm	False	0	in	
+Pp3c13_15090V3.19	tmhmm	False	0	out	
+Pp3c3_37660V3.2	tmhmm	False	0	out	
+Pp3c8_2040V3.6	tmhmm	False	0	out	
+Pp3c7_8710V3.4	tmhmm	False	0	out	
+Pp3c11_7230V3.1	tmhmm	False	0	out	
+Pp3c11_26820V3.2	tmhmm	False	0	out	
+Pp3c24_8230V3.6	tmhmm	False	0	out	
+Pp3c8_14490V3.1	tmhmm	False	0	out	
+Pp3c11_15070V3.2	tmhmm	False	0	out	
+Pp3c10_1790V3.1	tmhmm	False	0	out	
+Pp3c7_20570V3.1	tmhmm	False	0	out	
+Pp3c24_19330V3.6	tmhmm	False	0	out	
+Pp3c4_16880V3.7	tmhmm	False	0	out	
+Pp3c8_17100V3.8	tmhmm	False	0	out	
+Pp3c9_18080V3.1	tmhmm	False	0	out	
+Pp3c2_22420V3.1	tmhmm	False	0	out	
+Pp3c4_26780V3.1	tmhmm	False	0	out	
+Pp3c12_25750V3.2	tmhmm	False	0	out	
+Pp3c5_4210V3.1	tmhmm	False	0	out	
+Pp3s34_330V3.1	tmhmm	False	0	out	
+Pp3c1_11190V3.2	tmhmm	False	0	out	
+Pp3c19_10210V3.6	tmhmm	False	0	out	
+Pp3c3_30220V3.1	tmhmm	False	0	out	
+Pp3c15_5060V3.1	tmhmm	False	0	out	
+Pp3c15_4950V3.1	tmhmm	False	0	out	
+Pp3c19_16350V3.2	tmhmm	False	0	out	
+Pp3c24_13770V3.7	tmhmm	False	0	out	
+Pp3c8_18540V3.1	tmhmm	False	0	out	
+Pp3c14_17210V3.5	tmhmm	False	0	out	
+Pp3c24_14110V3.2	tmhmm	False	0	out	
+Pp3c22_22940V3.2	tmhmm	False	0	out	
+Pp3c27_3890V3.3	tmhmm	False	0	out	
+Pp3c13_21910V3.3	tmhmm	False	0	out	
+Pp3c6_10390V3.2	tmhmm	False	0	out	
+Pp3c17_14770V3.1	tmhmm	False	0	out	
+Pp3c11_24880V3.5	tmhmm	False	0	out	
+Pp3c20_4650V3.2	tmhmm	False	0	out	
+Pp3c11_18840V3.1	tmhmm	False	0	out	
+Pp3c3_5580V3.3	tmhmm	False	0	out	
+Pp3c2_3510V3.1	tmhmm	False	0	out	
+Pp3c25_3225V3.2	tmhmm	False	0	out	
+Pp3c12_280V3.5	tmhmm	False	0	out	
+Pp3c14_22150V3.1	tmhmm	False	0	out	
+Pp3c18_6090V3.3	tmhmm	False	0	out	
+Pp3c16_3320V3.2	tmhmm	False	0	out	
+Pp3c5_22320V3.1	tmhmm	False	0	out	
+Pp3c3_5580V3.2	tmhmm	False	0	out	
+Pp3c2_17910V3.5	tmhmm	False	0	out	
+Pp3c21_12900V3.2	tmhmm	False	0	out	
+Pp3c12_280V3.2	tmhmm	False	0	out	
+Pp3c18_6090V3.7	tmhmm	False	0	out	
+Pp3c24_13770V3.4	tmhmm	False	0	out	
+Pp3c19_7560V3.2	tmhmm	False	0	out	
+Pp3c11_18940V3.4	tmhmm	False	0	out	
+Pp3c13_21910V3.2	tmhmm	False	0	out	
+Pp3c12_9920V3.8	tmhmm	False	0	out	
+Pp3c10_2450V3.13	tmhmm	False	0	out	
+Pp3c2_35520V3.3	tmhmm	False	0	out	
+Pp3s34_420V3.3	tmhmm	False	0	out	
+Pp3c2_35860V3.9	tmhmm	False	0	out	
+Pp3c25_12300V3.1	tmhmm	False	0	out	
+Pp3c3_21060V3.13	tmhmm	False	0	out	
+Pp3c16_18950V3.2	tmhmm	False	0	out	
+Pp3c4_21200V3.4	tmhmm	False	0	out	
+Pp3c15_18060V3.1	tmhmm	False	0	out	
+Pp3c10_13800V3.3	tmhmm	False	0	out	
+Pp3c16_18950V3.8	tmhmm	False	0	out	
+Pp3s504_10V3.4	tmhmm	False	0	out	
+Pp3c22_22940V3.1	tmhmm	False	0	out	
+Pp3c4_7202V3.1	tmhmm	False	0	out	
+Pp3c17_16550V3.1	tmhmm	False	0	out	
+Pp3c5_25760V3.2	tmhmm	False	0	out	
+Pp3c17_18070V3.2	tmhmm	False	0	out	
+Pp3c7_3340V3.2	tmhmm	False	0	out	
+Pp3c6_15430V3.2	tmhmm	False	0	out	
+Pp3c11_5280V3.5	tmhmm	False	0	out	
+Pp3c26_5120V3.1	tmhmm	False	0	out	
+Pp3c7_3340V3.1	tmhmm	False	0	out	
+Pp3c13_19810V3.2	tmhmm	False	0	out	
+Pp3c4_3810V3.4	tmhmm	False	0	out	
+Pp3c15_18060V3.2	tmhmm	False	0	out	
+Pp3c26_13780V3.1	tmhmm	False	0	out	
+Pp3c5_280V3.8	tmhmm	False	0	out	
+Pp3c5_12730V3.3	tmhmm	False	0	out	
+Pp3c2_10000V3.2	tmhmm	False	0	out	
+Pp3c1_29082V3.3	tmhmm	False	0	out	
+Pp3c4_21200V3.3	tmhmm	False	0	out	
+Pp3c20_14020V3.2	tmhmm	False	0	out	
+Pp3c13_16380V3.3	tmhmm	False	0	out	
+Pp3c2_35420V3.2	tmhmm	False	0	out	
+Pp3c6_17350V3.1	tmhmm	False	0	out	
+Pp3c20_11500V3.2	tmhmm	False	0	out	
+Pp3c11_22570V3.5	tmhmm	False	0	out	
+Pp3c9_18080V3.2	tmhmm	False	0	out	
+Pp3c9_4400V3.1	tmhmm	False	0	out	
+Pp3c1_29080V3.1	tmhmm	False	0	out	
+Pp3c18_11770V3.3	tmhmm	False	0	out	
+Pp3c8_17710V3.5	tmhmm	False	0	out	
+Pp3c14_22150V3.2	tmhmm	False	0	out	
+Pp3c1_8820V3.1	tmhmm	False	0	out	
+Pp3c2_31290V3.5	tmhmm	False	0	out	
+Pp3c11_24880V3.4	tmhmm	False	0	out	
+Pp3c7_24660V3.2	tmhmm	False	0	in	
+Pp3c25_8490V3.1	tmhmm	False	0	out	
+Pp3c5_25760V3.3	tmhmm	False	0	out	
+Pp3c3_21060V3.7	tmhmm	False	0	out	
+Pp3c20_11500V3.1	tmhmm	False	0	out	
+Pp3c5_12730V3.1	tmhmm	False	0	out	
+Pp3c3_17260V3.1	tmhmm	False	0	out	
+Pp3c3_37640V3.3	tmhmm	False	0	out	
+Pp3c6_29020V3.2	tmhmm	False	0	out	
+Pp3c11_14980V3.2	tmhmm	False	0	out	
+Pp3c3_37640V3.4	tmhmm	False	0	out	
+Pp3c3_5470V3.3	tmhmm	False	0	out	
+Pp3c9_8270V3.7	tmhmm	False	0	out	
+Pp3c8_6950V3.2	tmhmm	False	0	out	
+Pp3c4_9720V3.3	tmhmm	False	0	out	
+Pp3c5_16090V3.1	tmhmm	False	0	out	
+Pp3c4_21970V3.4	tmhmm	False	0	out	
+Pp3c3_23770V3.3	tmhmm	False	0	out	
+Pp3c1_37090V3.7	tmhmm	False	0	out	
+Pp3c13_15090V3.10	tmhmm	False	0	out	
+Pp3c1_3750V3.2	tmhmm	False	0	in	
+Pp3c3_21060V3.6	tmhmm	False	0	out	
+Pp3c6_27590V3.3	tmhmm	False	0	out	
+Pp3c24_20920V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.6	tmhmm	False	0	out	
+Pp3c8_17100V3.5	tmhmm	False	0	out	
+Pp3c7_5480V3.3	tmhmm	False	0	out	
+Pp3c4_1631V3.2	tmhmm	False	0	out	
+Pp3c1_35770V3.7	tmhmm	False	0	out	
+Pp3c1_37090V3.1	tmhmm	False	0	out	
+Pp3c9_19210V3.1	tmhmm	False	0	in	
+Pp3c25_4520V3.2	tmhmm	False	0	out	
+Pp3c2_4060V3.5	tmhmm	False	0	out	
+Pp3c21_3700V3.1	tmhmm	False	0	out	
+Pp3c1_17370V3.4	tmhmm	False	0	out	
+Pp3c7_5929V3.14	tmhmm	False	0	out	
+Pp3c8_19010V3.5	tmhmm	False	0	out	
+Pp3c2_3880V3.3	tmhmm	False	0	out	
+Pp3c20_14020V3.1	tmhmm	False	0	out	
+Pp3c14_6480V3.3	tmhmm	False	0	out	
+Pp3c7_11520V3.2	tmhmm	False	0	out	
+Pp3c3_37640V3.2	tmhmm	False	0	out	
+Pp3c4_9720V3.2	tmhmm	False	0	out	
+Pp3c19_9880V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.10	tmhmm	False	0	out	
+Pp3c1_1170V3.2	tmhmm	False	0	out	
+Pp3c11_5280V3.11	tmhmm	False	0	out	
+Pp3c15_21210V3.2	tmhmm	False	0	out	
+Pp3c11_15070V3.1	tmhmm	False	0	out	
+Pp3c2_35860V3.11	tmhmm	False	0	out	
+Pp3c17_5410V3.1	tmhmm	False	0	out	
+Pp3c12_13280V3.1	tmhmm	False	0	out	
+Pp3c2_9470V3.3	tmhmm	False	0	out	
+Pp3c6_29020V3.1	tmhmm	False	0	out	
+Pp3c13_11088V3.1	tmhmm	False	0	out	
+Pp3c15_3710V3.1	tmhmm	False	0	out	
+Pp3c2_35860V3.1	tmhmm	False	0	out	
+Pp3c19_860V3.1	tmhmm	False	0	out	
+Pp3c24_13770V3.2	tmhmm	False	0	out	
+Pp3c1_860V3.1	tmhmm	False	0	out	
+Pp3c13_4450V3.2	tmhmm	False	0	out	
+Pp3c11_22570V3.3	tmhmm	False	0	out	
+Pp3c8_17910V3.1	tmhmm	False	0	out	
+Pp3c1_12290V3.2	tmhmm	False	0	out	
+Pp3c3_23770V3.2	tmhmm	False	0	out	
+Pp3c2_8360V3.6	tmhmm	False	0	out	
+Pp3c20_6140V3.10	tmhmm	False	0	out	
+Pp3c9_19210V3.7	tmhmm	False	0	in	
+Pp3c3_37320V3.1	tmhmm	False	0	out	
+Pp3c17_3610V3.3	tmhmm	False	0	in	
+Pp3c25_4520V3.1	tmhmm	False	0	out	
+Pp3c27_6760V3.2	tmhmm	False	0	out	
+Pp3c2_8360V3.2	tmhmm	False	0	out	
+Pp3c16_6690V3.2	tmhmm	False	0	out	
+Pp3c3_11220V3.3	tmhmm	False	0	out	
+Pp3c22_1890V3.1	tmhmm	False	0	out	
+Pp3c13_23373V3.1	tmhmm	False	0	out	
+Pp3c16_17020V3.4	tmhmm	False	0	out	
+Pp3c24_19330V3.1	tmhmm	False	0	out	
+Pp3c13_14440V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.8	tmhmm	False	0	out	
+Pp3c18_1260V3.6	tmhmm	False	1	in	6-28
+Pp3c24_9610V3.1	tmhmm	False	0	out	
+Pp3c4_21200V3.1	tmhmm	False	0	out	
+Pp3c7_8840V3.1	tmhmm	False	0	out	
+Pp3c13_15090V3.16	tmhmm	False	0	out	
+Pp3c8_18530V3.1	tmhmm	False	0	out	
+Pp3c7_5929V3.17	tmhmm	False	0	out	
+Pp3c13_15090V3.5	tmhmm	False	0	out	
+Pp3c20_6140V3.8	tmhmm	False	0	out	
+Pp3c26_5120V3.2	tmhmm	False	0	out	
+Pp3c11_26820V3.1	tmhmm	False	0	out	
+Pp3c24_13770V3.3	tmhmm	False	0	out	
+Pp3c7_24660V3.7	tmhmm	False	0	in	
+Pp3c21_3700V3.2	tmhmm	False	0	out	
+Pp3c11_5280V3.6	tmhmm	False	0	out	
+Pp3c11_7250V3.1	tmhmm	False	0	out	
+Pp3c12_21560V3.2	tmhmm	False	0	out	
+Pp3c12_280V3.1	tmhmm	False	0	out	
+Pp3c24_16180V3.1	tmhmm	False	0	out	
+Pp3c18_15340V3.7	tmhmm	False	0	out	
+Pp3c19_9920V3.1	tmhmm	False	0	out	
+Pp3c11_25720V3.2	tmhmm	False	0	out	
+Pp3c14_16890V3.2	tmhmm	False	0	out	
+Pp3c21_15940V3.2	tmhmm	False	0	out	
+Pp3c8_17100V3.1	tmhmm	False	0	out	
+Pp3c5_280V3.2	tmhmm	False	0	out	
+Pp3c24_8230V3.2	tmhmm	False	0	out	
+Pp3c3_21060V3.11	tmhmm	False	0	out	
+Pp3c20_5500V3.1	tmhmm	False	0	out	
+Pp3c18_15340V3.3	tmhmm	False	0	out	
+Pp3c17_16780V3.1	tmhmm	False	0	out	
+Pp3c24_6610V3.5	tmhmm	False	0	out	
+Pp3c1_17370V3.1	tmhmm	False	0	out	
+Pp3c4_26780V3.2	tmhmm	False	0	out	
+Pp3c24_8230V3.3	tmhmm	False	0	out	
+Pp3c12_16950V3.3	tmhmm	False	0	out	
+Pp3c14_2650V3.2	tmhmm	False	0	out	
+Pp3c27_3890V3.1	tmhmm	False	0	out	
+Pp3c19_10210V3.3	tmhmm	False	0	out	
+Pp3c21_12190V3.5	tmhmm	False	0	out	
+Pp3c11_23530V3.1	tmhmm	False	0	out	
+Pp3c14_20090V3.10	tmhmm	False	0	out	
+Pp3c16_9230V3.8	tmhmm	False	0	out	
+Pp3c16_4220V3.2	tmhmm	False	0	out	
+Pp3c9_8270V3.2	tmhmm	False	0	out	
+Pp3c22_6390V3.3	tmhmm	False	0	out	
+Pp3c3_17260V3.3	tmhmm	False	0	out	
+Pp3c14_20090V3.5	tmhmm	False	0	out	
+Pp3c17_8330V3.5	tmhmm	False	0	out	
+Pp3c2_17910V3.3	tmhmm	False	0	out	
+Pp3c10_13060V3.2	tmhmm	False	0	out	
+Pp3c15_549V3.1	tmhmm	False	1	in	39-40
+Pp3c6_10590V3.2	tmhmm	False	0	out	
+Pp3c10_2450V3.7	tmhmm	False	0	out	
+Pp3c2_30835V3.3	tmhmm	False	0	out	
+Pp3c2_31290V3.7	tmhmm	False	0	out	
+Pp3c25_10710V3.1	tmhmm	False	0	out	
+Pp3c5_22320V3.3	tmhmm	False	0	out	
+Pp3c3_21060V3.5	tmhmm	False	0	out	
+Pp3c18_15340V3.2	tmhmm	False	0	out	
+Pp3c7_2900V3.5	tmhmm	False	0	out	
+Pp3c4_9940V3.1	tmhmm	False	0	out	
+Pp3c18_13500V3.3	tmhmm	False	0	out	
+Pp3c6_10210V3.3	tmhmm	False	0	out	
+Pp3c12_3350V3.1	tmhmm	False	0	out	
+Pp3c4_29810V3.8	tmhmm	False	0	out	
+Pp3c4_16880V3.9	tmhmm	False	0	out	
+Pp3c21_19030V3.4	tmhmm	False	0	out	
+Pp3c21_19030V3.2	tmhmm	False	0	out	
+Pp3c8_17100V3.3	tmhmm	False	0	out	
+Pp3c2_35860V3.3	tmhmm	False	0	out	
+Pp3c27_5750V3.3	tmhmm	False	0	out	
+Pp3c2_22420V3.5	tmhmm	False	0	out	
+Pp3c18_9600V3.7	tmhmm	False	0	out	
+Pp3c19_16350V3.3	tmhmm	False	0	out	
+Pp3c26_5950V3.1	tmhmm	False	0	out	
+Pp3c12_4290V3.1	tmhmm	False	0	out	
+Pp3c6_10590V3.3	tmhmm	False	0	out	
+Pp3c2_35520V3.1	tmhmm	False	0	out	
+Pp3c16_18950V3.3	tmhmm	False	0	out	
+Pp3c5_12740V3.1	tmhmm	False	0	out	
+Pp3c7_10240V3.4	tmhmm	False	0	out	
+Pp3c8_17100V3.4	tmhmm	False	0	out	
+Pp3c5_4990V3.1	tmhmm	False	0	out	
+Pp3c9_22160V3.2	tmhmm	False	0	out	
+Pp3c2_12540V3.1	tmhmm	False	0	out	
+Pp3c6_12160V3.2	tmhmm	False	0	out	
+Pp3c4_1631V3.4	tmhmm	False	0	out	
+Pp3c7_5929V3.18	tmhmm	False	0	out	
+Pp3c17_5410V3.2	tmhmm	False	0	out	
+Pp3c6_24360V3.2	tmhmm	False	0	out	
+Pp3c17_16550V3.4	tmhmm	False	0	out	
+Pp3c15_19270V3.4	tmhmm	False	0	out	
+Pp3c5_24460V3.3	tmhmm	False	0	out	
+Pp3c1_12290V3.3	tmhmm	False	0	out	
+Pp3c6_24130V3.5	tmhmm	False	0	out	
+Pp3c8_18540V3.7	tmhmm	False	0	out	
+Pp3c25_12300V3.3	tmhmm	False	0	out	
+Pp3c10_2450V3.5	tmhmm	False	0	out	
+Pp3c16_14340V3.3	tmhmm	False	0	out	
+Pp3s504_10V3.3	tmhmm	False	0	out	
+Pp3c21_12190V3.1	tmhmm	False	0	out	
+Pp3c18_15340V3.6	tmhmm	False	0	out	
+Pp3c1_110V3.2	tmhmm	False	0	out	
+Pp3c13_20600V3.1	tmhmm	False	0	out	
+Pp3c22_17280V3.1	tmhmm	False	0	out	
+Pp3c5_8700V3.1	tmhmm	False	0	out	
+Pp3c16_20970V3.4	tmhmm	False	0	out	
+Pp3c1_860V3.5	tmhmm	False	0	out	
+Pp3c17_8330V3.2	tmhmm	False	0	out	
+Pp3c12_16950V3.2	tmhmm	False	0	out	
+Pp3c18_6751V3.1	tmhmm	False	0	out	
+Pp3c11_23530V3.2	tmhmm	False	0	out	
+Pp3c24_6610V3.6	tmhmm	False	0	out	
+Pp3c14_20620V3.2	tmhmm	False	0	out	
+Pp3c15_19200V3.3	tmhmm	False	0	out	
+Pp3c8_17100V3.7	tmhmm	False	0	out	
+Pp3c14_17210V3.1	tmhmm	False	0	out	
+Pp3s92_110V3.1	tmhmm	False	0	out	
+Pp3c11_14980V3.1	tmhmm	False	0	out	
+Pp3c14_18840V3.2	tmhmm	False	0	out	
+Pp3c17_3610V3.1	tmhmm	False	0	out	
+Pp3c9_1080V3.2	tmhmm	False	0	out	
+Pp3c6_21780V3.3	tmhmm	False	0	out	
+Pp3c16_12660V3.2	tmhmm	False	0	out	
+Pp3c7_11520V3.3	tmhmm	False	0	out	
+Pp3c14_17210V3.8	tmhmm	False	0	out	
+Pp3c5_5006V3.1	tmhmm	False	0	out	
+Pp3c1_13308V3.1	tmhmm	False	0	out	
+Pp3c17_350V3.2	tmhmm	False	0	out	
+Pp3c8_14940V3.4	tmhmm	False	0	out	
+Pp3c3_14470V3.4	tmhmm	False	0	out	
+Pp3c2_31650V3.4	tmhmm	False	0	out	
+Pp3c13_15090V3.9	tmhmm	False	0	out	
+Pp3c20_6140V3.7	tmhmm	False	0	out	
+Pp3c15_11610V3.1	tmhmm	False	0	out	
+Pp3c4_1631V3.1	tmhmm	False	0	out	
+Pp3c11_5280V3.1	tmhmm	False	0	out	
+Pp3c10_11390V3.2	tmhmm	False	0	out	
+Pp3c8_2490V3.2	tmhmm	False	0	out	
+Pp3c7_26020V3.4	tmhmm	False	0	out	
+Pp3c4_21970V3.8	tmhmm	False	0	out	
+Pp3c2_35860V3.5	tmhmm	False	0	out	
+Pp3c8_17910V3.2	tmhmm	False	0	out	
+Pp3c2_35433V3.2	tmhmm	False	0	out	
+Pp3c6_10390V3.8	tmhmm	False	0	out	
+Pp3c12_7090V3.2	tmhmm	False	1	in	224-237
+Pp3c7_8710V3.2	tmhmm	False	0	out	
+Pp3c26_180V3.2	tmhmm	False	0	out	
+Pp3c9_19210V3.5	tmhmm	False	0	in	
+Pp3c6_16650V3.2	tmhmm	False	0	out	
+Pp3c10_11390V3.3	tmhmm	False	0	out	
+Pp3c13_14440V3.3	tmhmm	False	0	out	
+Pp3c6_6640V3.2	tmhmm	False	0	out	
+Pp3c18_11770V3.2	tmhmm	False	0	out	
+Pp3c1_33770V3.5	tmhmm	False	0	out	
+Pp3c1_8820V3.2	tmhmm	False	0	out	
+Pp3c1_860V3.3	tmhmm	False	0	out	
+Pp3c20_6140V3.1	tmhmm	False	0	out	
+Pp3c13_19810V3.3	tmhmm	False	0	out	
+Pp3c1_22230V3.3	tmhmm	False	0	out	
+Pp3c7_310V3.2	tmhmm	False	0	out	
+Pp3c11_5280V3.8	tmhmm	False	0	out	
+Pp3c11_18940V3.2	tmhmm	False	0	out	
+Pp3s32_610V3.1	tmhmm	False	0	out	
+Pp3c8_21920V3.4	tmhmm	False	0	out	
+Pp3c9_8270V3.4	tmhmm	False	0	out	
+Pp3c7_8560V3.3	tmhmm	False	0	out	
+Pp3c24_15860V3.3	tmhmm	False	0	out	
+Pp3c16_9230V3.5	tmhmm	False	0	out	
+Pp3c5_280V3.6	tmhmm	False	0	out	
+Pp3c1_37090V3.5	tmhmm	False	0	out	
+Pp3c2_27490V3.4	tmhmm	False	0	out	
+Pp3c14_22150V3.5	tmhmm	False	0	out	
+Pp3c25_12300V3.2	tmhmm	False	0	out	
+Pp3c17_8330V3.4	tmhmm	False	0	out	
+Pp3c14_17210V3.14	tmhmm	False	0	out	
+Pp3c8_17100V3.11	tmhmm	False	0	out	
+Pp3c20_11500V3.3	tmhmm	False	0	out	
+Pp3c13_13210V3.1	tmhmm	False	0	out	
+Pp3c11_22570V3.4	tmhmm	False	0	out	
+Pp3c11_12900V3.1	tmhmm	False	0	out	
+Pp3c22_6390V3.4	tmhmm	False	0	out	
+Pp3c3_21060V3.18	tmhmm	False	0	out	
+Pp3c1_33770V3.1	tmhmm	False	0	out	
+Pp3c6_21140V3.1	tmhmm	False	0	out	
+Pp3c8_21920V3.3	tmhmm	False	0	out	
+Pp3c16_9230V3.4	tmhmm	False	0	out	
+Pp3c6_15100V3.3	tmhmm	False	0	out	
+Pp3c12_25750V3.1	tmhmm	False	0	out	
+Pp3c1_17370V3.5	tmhmm	False	0	out	
+Pp3c11_22390V3.2	tmhmm	False	0	out	
+Pp3c26_4720V3.3	tmhmm	False	0	out	
+Pp3c9_8270V3.5	tmhmm	False	0	out	
+Pp3c17_16550V3.2	tmhmm	False	0	out	
+Pp3c16_15610V3.2	tmhmm	False	0	out	
+Pp3c17_930V3.1	tmhmm	False	0	out	
+Pp3c18_1260V3.2	tmhmm	False	1	in	6-28
+Pp3c1_8100V3.2	tmhmm	False	0	out	
+Pp3c2_31290V3.6	tmhmm	False	0	out	
+Pp3c13_15090V3.1	tmhmm	False	0	out	
+Pp3c6_8120V3.2	tmhmm	False	0	out	
+Pp3c6_24130V3.7	tmhmm	False	0	out	
+Pp3c18_13500V3.2	tmhmm	False	0	out	
+Pp3c18_6090V3.2	tmhmm	False	0	out	
+Pp3c2_9560V3.3	tmhmm	False	0	out	
+Pp3c1_1170V3.3	tmhmm	False	0	out	
+Pp3c9_19210V3.8	tmhmm	False	0	in	
+Pp3c17_8330V3.3	tmhmm	False	0	out	
+Pp3c6_8120V3.1	tmhmm	False	0	out	
+Pp3c6_7710V3.1	tmhmm	False	0	out	
+Pp3c19_11580V3.3	tmhmm	False	0	out	
+Pp3c3_23770V3.4	tmhmm	False	0	out	
+Pp3c27_5970V3.2	tmhmm	False	0	out	
+Pp3c9_19210V3.4	tmhmm	False	0	in	
+Pp3c1_8100V3.3	tmhmm	False	0	out	
+Pp3c2_35860V3.10	tmhmm	False	0	out	
+Pp3c10_6710V3.2	tmhmm	False	0	out	
+Pp3c16_210V3.4	tmhmm	False	0	out	
+Pp3c17_14770V3.2	tmhmm	False	0	out	
+Pp3c7_5480V3.1	tmhmm	False	0	out	
+Pp3c18_9600V3.6	tmhmm	False	0	out	
+Pp3c14_11190V3.8	tmhmm	False	0	out	
+Pp3c1_35770V3.3	tmhmm	False	0	out	
+Pp3c10_2450V3.6	tmhmm	False	0	out	
+Pp3c18_15340V3.4	tmhmm	False	0	out	
+Pp3c16_210V3.5	tmhmm	False	0	out	
+Pp3c25_7410V3.1	tmhmm	False	0	out	
+Pp3c15_19270V3.1	tmhmm	False	0	out	
+Pp3c7_5480V3.2	tmhmm	False	0	out	
+Pp3c11_17010V3.2	tmhmm	False	0	out	
+Pp3c4_29810V3.2	tmhmm	False	0	out	
+Pp3c16_14340V3.5	tmhmm	False	0	out	
+Pp3c1_33770V3.8	tmhmm	False	0	out	
+Pp3c9_18800V3.2	tmhmm	False	0	out	
+Pp3c24_9610V3.3	tmhmm	False	0	out	
+Pp3c4_29810V3.12	tmhmm	False	0	out	
+Pp3c2_17910V3.6	tmhmm	False	0	out	
+Pp3c21_5060V3.3	tmhmm	False	0	out	
+Pp3c4_19510V3.5	tmhmm	False	0	out	
+Pp3c2_35520V3.5	tmhmm	False	0	out	
+Pp3c6_10210V3.5	tmhmm	False	0	out	
+Pp3c17_16550V3.8	tmhmm	False	0	out	
+Pp3c21_14490V3.1	tmhmm	False	0	out	
+Pp3c3_17260V3.2	tmhmm	False	0	out	
+Pp3c2_4060V3.4	tmhmm	False	0	out	
+Pp3c2_35433V3.1	tmhmm	False	0	out	
+Pp3c18_13500V3.5	tmhmm	False	0	out	
+Pp3c19_10210V3.1	tmhmm	False	0	out	
+Pp3c13_15090V3.2	tmhmm	False	0	out	
+Pp3c4_25990V3.1	tmhmm	False	0	out	
+Pp3c5_16670V3.1	tmhmm	False	1	in	70-77
+Pp3c3_5470V3.2	tmhmm	False	0	out	
+Pp3c16_16990V3.4	tmhmm	False	0	out	
+Pp3c3_28590V3.4	tmhmm	False	0	out	
+Pp3c16_17420V3.2	tmhmm	False	0	out	
+Pp3c12_280V3.3	tmhmm	False	0	out	
+Pp3c25_4520V3.4	tmhmm	False	0	out	
+Pp3c11_5280V3.7	tmhmm	False	0	out	
+Pp3c4_16880V3.4	tmhmm	False	0	out	
+Pp3c16_4220V3.1	tmhmm	False	0	out	
+Pp3c5_280V3.5	tmhmm	False	0	out	
+Pp3c14_17210V3.12	tmhmm	False	0	out	
+Pp3c10_1790V3.2	tmhmm	False	0	out	
+Pp3c20_6140V3.13	tmhmm	False	0	out	
+Pp3c15_19270V3.3	tmhmm	False	0	out	
+Pp3c2_31650V3.3	tmhmm	False	0	out	
+Pp3c16_20970V3.5	tmhmm	False	0	out	
+Pp3c3_15820V3.1	tmhmm	False	0	out	
+Pp3c14_20620V3.1	tmhmm	False	0	out	
+Pp3c2_8360V3.3	tmhmm	False	0	out	
+Pp3c10_2450V3.16	tmhmm	False	0	out	
+Pp3c18_6090V3.4	tmhmm	False	0	out	
+Pp3c14_17210V3.9	tmhmm	False	0	out	
+Pp3c17_3610V3.2	tmhmm	False	0	out	
+Pp3c6_10210V3.6	tmhmm	False	0	out	
+Pp3c17_14350V3.4	tmhmm	False	0	out	
+Pp3c16_9230V3.9	tmhmm	False	0	out	
+Pp3c14_90V3.1	tmhmm	False	0	out	
+Pp3c1_22210V3.5	tmhmm	False	0	out	
+Pp3c6_10590V3.1	tmhmm	False	0	out	
+Pp3c7_8710V3.1	tmhmm	False	0	out	
+Pp3c16_1040V3.1	tmhmm	False	0	out	
+Pp3c8_13820V3.1	tmhmm	False	0	out	
+Pp3c13_19680V3.2	tmhmm	False	0	out	
+Pp3c14_20090V3.9	tmhmm	False	0	out	
+Pp3c6_24130V3.4	tmhmm	False	0	out	
+Pp3c19_20670V3.2	tmhmm	False	0	out	
+Pp3s34_420V3.1	tmhmm	False	20	out	5452-5474,5481-5503,5621-5639,5646-5668,5672-5691,5712-5734,7133-7155,7204-7226,7262-7284,7297-7319,7343-7360,7401-7423,7443-7465,7493-7515,7554-7576,7588-7610,7615-7634,7681-7703,7723-7745,7767-7789
+Pp3c14_6480V3.5	tmhmm	False	0	out	
+Pp3c2_9470V3.1	tmhmm	False	0	out	
+Pp3c1_4600V3.1	tmhmm	False	0	out	
+Pp3c18_17900V3.1	tmhmm	False	0	out	
+Pp3c5_19640V3.3	tmhmm	False	0	out	
+Pp3c19_11580V3.2	tmhmm	False	0	out	
+Pp3c5_16090V3.2	tmhmm	False	0	out	
+Pp3c6_10390V3.4	tmhmm	False	0	out	
+Pp3c1_3770V3.1	tmhmm	False	0	out	
+Pp3c16_18950V3.5	tmhmm	False	0	out	
+Pp3c14_90V3.3	tmhmm	False	0	out	
+Pp3c8_14940V3.1	tmhmm	False	0	out	
+Pp3c11_23370V3.4	tmhmm	False	0	out	
+Pp3c5_21790V3.2	tmhmm	False	0	out	
+Pp3c18_13500V3.4	tmhmm	False	0	out	
+Pp3c2_35860V3.2	tmhmm	False	0	out	
+Pp3c6_21780V3.2	tmhmm	False	0	out	
+Pp3c8_17100V3.16	tmhmm	False	0	out	
+Pp3c8_6950V3.3	tmhmm	False	0	out	
+Pp3c14_20090V3.8	tmhmm	False	0	out	
+Pp3c12_870V3.1	tmhmm	False	0	out	
+Pp3c14_17210V3.6	tmhmm	False	0	out	
+Pp3c24_6610V3.3	tmhmm	False	0	out	
+Pp3c16_17420V3.3	tmhmm	False	0	out	
+Pp3c11_14980V3.3	tmhmm	False	1	in	159-164
+Pp3c9_22160V3.1	tmhmm	False	0	out	
+Pp3c18_6750V3.1	tmhmm	False	0	out	
+Pp3c15_5070V3.4	tmhmm	False	0	out	
+Pp3c19_11580V3.1	memsat_svm	False	1	out	118-148
+Pp3c14_17210V3.10	memsat_svm	False	1	out	333-348
+Pp3c18_11770V3.5	memsat_svm	False	1	out	706-721
+Pp3c22_17280V3.3	memsat_svm	False	1	out	1452-1467
+Pp3c15_14600V3.2	memsat_svm	False	7	out	312-327,422-450,1111-1126,1194-1219,1244-1259,1400-1415,1647-1662
+Pp3c12_7090V3.1	memsat_svm	False	1	in	91-106
+Pp3c14_21766V3.3	memsat_svm	False	1	in	742-757
+Pp3c27_4210V3.1	memsat_svm	False	1	in	36-51
+Pp3c8_21920V3.1	memsat_svm	False	1	out	279-294
+Pp3c11_23530V3.6	memsat_svm	False	1	in	104-119
+Pp3c8_21920V3.2	memsat_svm	False	1	out	279-294
+Pp3c17_16550V3.5	memsat_svm	False	1	in	459-489
+Pp3c6_21140V3.2	memsat_svm	False	1	in	993-1008
+Pp3c7_24660V3.3	memsat_svm	False	1	in	80-95
+Pp3c3_36750V3.6	memsat_svm	False	1	out	120-135
+Pp3c16_18950V3.6	memsat_svm	False	1	out	720-735
+Pp3c15_23590V3.2	memsat_svm	False	1	in	457-472
+Pp3c6_10390V3.7	memsat_svm	False	1	out	1008-1023
+Pp3c14_21750V3.1	memsat_svm	False	1	in	742-757
+Pp3c15_5070V3.3	memsat_svm	False	1	out	320-335
+Pp3c9_19210V3.3	memsat_svm	False	1	in	153-168
+Pp3c3_21060V3.9	memsat_svm	False	1	out	49-64
+Pp3c11_24880V3.1	memsat_svm	False	1	out	229-245
+Pp3c6_10210V3.1	memsat_svm	False	1	in	13-28
+Pp3s32_550V3.1	memsat_svm	False	1	in	39-58
+Pp3c13_8050V3.1	memsat_svm	False	1	out	49-64
+Pp3c7_26020V3.3	memsat_svm	False	1	in	94-109
+Pp3c13_16380V3.1	memsat_svm	True	1	out	289-317
+Pp3c7_8710V3.3	memsat_svm	False	1	out	325-340
+Pp3c15_19200V3.4	memsat_svm	False	1	in	116-131
+Pp3c7_10240V3.2	memsat_svm	True	1	out	299-314
+Pp3c3_36750V3.2	memsat_svm	False	1	out	120-135
+Pp3c16_210V3.3	memsat_svm	False	1	out	921-936
+Pp3c15_3710V3.4	memsat_svm	False	1	in	72-87
+Pp3c1_29082V3.2	memsat_svm	False	2	in	317-332,353-368
+Pp3c14_11190V3.6	memsat_svm	False	1	out	137-152
+Pp3c12_25750V3.4	memsat_svm	False	1	out	246-261
+Pp3c8_14490V3.5	memsat_svm	False	1	out	188-203
+Pp3c19_7630V3.1	memsat_svm	False	1	out	422-437
+Pp3c11_24880V3.6	memsat_svm	False	1	out	232-248
+Pp3c11_23530V3.3	memsat_svm	False	1	in	104-119
+Pp3c19_10210V3.4	memsat_svm	True	1	out	106-121
+Pp3c16_9230V3.3	memsat_svm	False	1	in	147-162
+Pp3c5_16090V3.3	memsat_svm	False	1	in	147-162
+Pp3c6_24360V3.3	memsat_svm	False	1	in	95-110
+Pp3c7_5480V3.5	memsat_svm	False	1	in	213-228
+Pp3c5_8700V3.2	memsat_svm	False	1	out	200-215
+Pp3c26_1300V3.3	memsat_svm	False	1	out	302-317
+Pp3c8_17100V3.2	memsat_svm	False	1	in	162-177
+Pp3c3_17380V3.3	memsat_svm	False	1	out	506-521
+Pp3c1_13308V3.2	memsat_svm	True	1	out	279-296
+Pp3c2_7400V3.2	memsat_svm	False	1	in	87-102
+Pp3c16_3320V3.3	memsat_svm	False	1	in	143-158
+Pp3c4_25990V3.2	memsat_svm	False	1	in	376-391
+Pp3c9_11360V3.1	memsat_svm	True	1	out	496-511
+Pp3c10_2450V3.12	memsat_svm	False	1	out	611-626
+Pp3c21_10520V3.1	memsat_svm	False	1	out	26-41
+Pp3c3_21060V3.2	memsat_svm	False	1	out	48-63
+Pp3c3_34180V3.2	memsat_svm	True	1	out	156-171
+Pp3c15_14600V3.1	memsat_svm	False	7	out	312-327,422-450,1111-1126,1194-1219,1244-1259,1400-1415,1647-1662
+Pp3c24_20920V3.3	memsat_svm	False	1	out	1125-1140
+Pp3c4_19510V3.4	memsat_svm	False	1	in	155-170
+Pp3c18_9600V3.8	memsat_svm	False	1	in	783-803
+Pp3c22_6390V3.1	memsat_svm	True	1	out	153-168
+Pp3c17_8330V3.7	memsat_svm	False	1	out	129-144
+Pp3c9_19210V3.2	memsat_svm	False	1	in	153-168
+Pp3c5_19640V3.4	memsat_svm	False	1	in	583-598
+Pp3c2_35520V3.4	memsat_svm	False	1	in	351-366
+Pp3c4_19510V3.1	memsat_svm	True	1	out	231-246
+Pp3c12_4290V3.2	memsat_svm	False	1	in	112-127
+Pp3c10_16040V3.2	memsat_svm	False	1	in	235-250
+Pp3c16_17020V3.5	memsat_svm	False	1	out	623-638
+Pp3c17_931V3.1	memsat_svm	False	1	in	324-339
+Pp3c14_21766V3.2	memsat_svm	False	1	in	742-757
+Pp3c10_2450V3.10	memsat_svm	False	1	out	611-626
+Pp3c5_12730V3.2	memsat_svm	False	1	in	238-253
+Pp3c4_21970V3.7	memsat_svm	False	1	out	956-971
+Pp3c26_1300V3.2	memsat_svm	False	1	out	292-307
+Pp3c4_29810V3.11	memsat_svm	False	1	in	358-373
+Pp3c2_37790V3.1	memsat_svm	False	1	in	179-194
+Pp3c1_37090V3.6	memsat_svm	False	1	in	712-727
+Pp3c16_10290V3.3	memsat_svm	False	1	in	53-68
+Pp3c1_22440V3.1	memsat_svm	False	1	in	343-358
+Pp3c9_23280V3.1	memsat_svm	True	1	out	384-399
+Pp3c17_3610V3.6	memsat_svm	False	1	in	49-64
+Pp3c13_15090V3.13	memsat_svm	False	1	out	48-63
+Pp3c7_5929V3.20	memsat_svm	False	1	in	2391-2406
+Pp3c13_15090V3.3	memsat_svm	False	1	out	48-63
+Pp3c16_18950V3.1	memsat_svm	False	1	out	720-735
+Pp3c5_20190V3.1	memsat_svm	False	1	in	1428-1443
+Pp3c13_4600V3.1	memsat_svm	False	1	in	8-23
+Pp3c16_7620V3.1	memsat_svm	False	1	in	17-32
+Pp3c2_10000V3.4	memsat_svm	False	1	out	279-294
+Pp3c6_10390V3.5	memsat_svm	False	1	out	1008-1023
+Pp3c6_24130V3.1	memsat_svm	False	1	in	125-140
+Pp3c16_3320V3.1	memsat_svm	False	1	in	143-158
+Pp3c2_31700V3.1	memsat_svm	False	1	out	165-180
+Pp3c3_36750V3.3	memsat_svm	False	1	out	120-135
+Pp3c2_31650V3.2	memsat_svm	False	1	out	286-303
+Pp3c7_5929V3.9	memsat_svm	False	1	in	2426-2441
+Pp3c2_22420V3.2	memsat_svm	False	1	out	193-208
+Pp3c24_20920V3.1	memsat_svm	False	1	out	345-360
+Pp3c26_5450V3.2	memsat_svm	False	1	out	304-319
+Pp3c2_4060V3.1	memsat_svm	False	1	out	493-513
+Pp3c8_17100V3.9	memsat_svm	False	1	in	162-177
+Pp3c25_7410V3.5	memsat_svm	False	1	in	57-72
+Pp3c7_4380V3.1	memsat_svm	False	2	in	404-419,539-555
+Pp3c2_35750V3.1	memsat_svm	False	1	out	1438-1453
+Pp3c1_3340V3.1	memsat_svm	False	1	in	1057-1072
+Pp3c8_18540V3.3	memsat_svm	False	1	in	123-138
+Pp3c17_19520V3.2	memsat_svm	False	1	in	347-362
+Pp3c18_15340V3.5	memsat_svm	False	1	in	631-646
+Pp3c8_17710V3.2	memsat_svm	True	1	out	1129-1144
+Pp3c8_19010V3.6	memsat_svm	True	1	out	1110-1126
+Pp3c10_2450V3.15	memsat_svm	False	1	in	781-798
+Pp3c21_10520V3.3	memsat_svm	False	1	in	49-64
+Pp3c11_17010V3.3	memsat_svm	False	1	out	566-586
+Pp3c24_13770V3.8	memsat_svm	True	1	out	1211-1228
+Pp3c6_24130V3.3	memsat_svm	False	1	in	125-140
+Pp3c8_19010V3.4	memsat_svm	True	1	out	1110-1126
+Pp3c16_9230V3.6	memsat_svm	True	1	out	892-909
+Pp3c3_20030V3.3	memsat_svm	False	1	out	342-372
+Pp3c13_14440V3.4	memsat_svm	False	1	in	1107-1122
+Pp3c16_9230V3.7	memsat_svm	True	1	out	892-909
+Pp3c1_13300V3.1	memsat_svm	True	1	out	279-296
+Pp3c25_7380V3.2	memsat_svm	False	1	in	57-72
+Pp3c25_12300V3.5	memsat_svm	True	1	out	531-546
+Pp3c3_21060V3.17	memsat_svm	False	1	out	48-63
+Pp3c18_11770V3.6	memsat_svm	False	1	out	780-795
+Pp3c17_14350V3.3	memsat_svm	False	1	out	182-197
+Pp3c25_7410V3.2	memsat_svm	False	1	in	57-72
+Pp3c11_23370V3.2	memsat_svm	False	1	out	273-288
+Pp3c11_5280V3.2	memsat_svm	True	1	out	120-135
+Pp3c27_6760V3.1	memsat_svm	True	1	out	131-151
+Pp3c4_19510V3.6	memsat_svm	False	1	in	155-170
+Pp3c15_23590V3.3	memsat_svm	False	1	in	210-225
+Pp3c17_16550V3.7	memsat_svm	False	1	in	459-489
+Pp3c4_29810V3.4	memsat_svm	False	1	in	358-373
+Pp3c11_22570V3.1	memsat_svm	True	1	out	112-127
+Pp3c12_9920V3.3	memsat_svm	True	1	out	45-60
+Pp3c2_27490V3.2	memsat_svm	False	1	in	96-126
+Pp3c15_4950V3.2	memsat_svm	False	1	out	18-33
+Pp3c19_14710V3.1	memsat_svm	False	1	out	66-81
+Pp3c14_20090V3.2	memsat_svm	False	1	out	66-81
+Pp3c1_3750V3.1	memsat_svm	False	1	in	537-552
+Pp3c14_20090V3.3	memsat_svm	False	1	out	47-62
+Pp3c2_35860V3.7	memsat_svm	False	1	out	768-783
+Pp3c17_3610V3.4	memsat_svm	False	1	in	49-64
+Pp3c10_19380V3.1	memsat_svm	True	1	out	204-219
+Pp3c16_10320V3.3	memsat_svm	False	1	in	53-68
+Pp3c8_17100V3.12	memsat_svm	False	1	in	162-177
+Pp3c11_18840V3.4	memsat_svm	False	1	in	2506-2521
+Pp3c24_13770V3.6	memsat_svm	True	1	out	1206-1223
+Pp3c5_280V3.7	memsat_svm	False	1	in	343-358
+Pp3c3_28590V3.1	memsat_svm	True	1	out	270-285
+Pp3c6_27590V3.4	memsat_svm	False	1	in	723-738
+Pp3c1_34190V3.3	memsat_svm	False	1	in	122-137
+Pp3c16_20970V3.2	memsat_svm	False	1	in	201-216
+Pp3c24_19330V3.4	memsat_svm	True	1	out	1127-1143
+Pp3c16_9230V3.2	memsat_svm	False	1	in	147-162
+Pp3c5_20850V3.1	memsat_svm	False	1	out	36-51
+Pp3c5_22610V3.3	memsat_svm	False	1	in	25-40
+Pp3c3_19510V3.1	memsat_svm	False	1	out	162-177
+Pp3c8_17100V3.14	memsat_svm	False	1	in	162-177
+Pp3c4_21970V3.5	memsat_svm	False	1	out	956-971
+Pp3c8_17710V3.4	memsat_svm	True	1	out	1129-1144
+Pp3c7_5970V3.2	memsat_svm	False	1	out	41-56
+Pp3c5_12767V3.1	memsat_svm	False	1	in	53-68
+Pp3c22_5980V3.1	memsat_svm	False	1	in	31-46
+Pp3c7_5929V3.2	memsat_svm	False	1	in	2395-2410
+Pp3s504_10V3.5	memsat_svm	False	1	in	119-134
+Pp3c14_17210V3.17	memsat_svm	False	1	out	333-348
+Pp3c10_2450V3.3	memsat_svm	False	1	out	611-626
+Pp3c14_17210V3.19	memsat_svm	False	1	out	333-348
+Pp3c7_5929V3.4	memsat_svm	False	1	in	2430-2445
+Pp3c20_6140V3.12	memsat_svm	False	1	in	540-555
+Pp3c9_19210V3.6	memsat_svm	False	1	in	153-168
+Pp3c11_12900V3.2	memsat_svm	True	1	out	316-331
+Pp3c22_13550V3.2	memsat_svm	False	1	out	66-81
+Pp3c5_19514V3.1	memsat_svm	False	1	in	410-425
+Pp3c19_860V3.3	memsat_svm	False	1	out	215-230
+Pp3c8_17100V3.17	memsat_svm	False	1	in	162-177
+Pp3c1_22230V3.2	memsat_svm	False	1	in	100-115
+Pp3c6_4460V3.3	memsat_svm	False	1	in	660-675
+Pp3c5_19090V3.1	memsat_svm	False	1	in	306-321
+Pp3c19_9910V3.2	memsat_svm	False	1	in	85-100
+Pp3c4_16880V3.2	memsat_svm	False	1	out	105-120
+Pp3c1_17370V3.3	memsat_svm	True	1	out	178-193
+Pp3c5_280V3.1	memsat_svm	False	1	in	722-737
+Pp3c5_5030V3.1	memsat_svm	False	1	in	94-109
+Pp3c1_11190V3.1	memsat_svm	False	1	in	134-149
+Pp3c14_22150V3.3	memsat_svm	False	1	in	954-970
+Pp3c24_13770V3.1	memsat_svm	True	1	out	1208-1225
+Pp3c16_9230V3.1	memsat_svm	False	1	in	147-162
+Pp3c7_24660V3.4	memsat_svm	False	1	in	67-82
+Pp3c3_20030V3.1	memsat_svm	False	1	out	342-372
+Pp3c24_8230V3.4	memsat_svm	True	1	out	52-67
+Pp3c7_24660V3.6	memsat_svm	False	1	in	71-86
+Pp3c24_15860V3.2	memsat_svm	False	1	in	162-177
+Pp3c20_17000V3.1	memsat_svm	False	1	in	300-315
+Pp3c17_14350V3.1	memsat_svm	False	1	out	182-197
+Pp3c17_7580V3.3	memsat_svm	False	1	in	33-48
+Pp3c4_21970V3.1	memsat_svm	False	1	out	956-971
+Pp3c13_4450V3.3	memsat_svm	False	1	in	346-361
+Pp3c17_16550V3.3	memsat_svm	False	1	in	459-489
+Pp3c21_12190V3.6	memsat_svm	True	1	out	640-655
+Pp3c17_7580V3.4	memsat_svm	False	1	in	33-48
+Pp3c16_10320V3.4	memsat_svm	False	1	in	53-68
+Pp3c13_4470V3.1	memsat_svm	False	1	out	503-518
+Pp3c6_24360V3.1	memsat_svm	False	1	in	94-109
+Pp3c18_11770V3.4	memsat_svm	False	1	out	706-721
+Pp3c8_3310V3.2	memsat_svm	False	1	out	122-137
+Pp3c27_5970V3.1	memsat_svm	False	1	in	186-201
+Pp3c17_7580V3.1	memsat_svm	False	1	in	33-48
+Pp3c4_1630V3.1	memsat_svm	True	1	out	793-808
+Pp3c14_16890V3.1	memsat_svm	False	1	out	49-64
+Pp3c2_31290V3.2	memsat_svm	False	1	in	94-109
+Pp3c17_8330V3.6	memsat_svm	False	1	out	130-145
+Pp3c12_9920V3.1	memsat_svm	True	2	out	45-60,172-187
+Pp3s58_140V3.1	memsat_svm	False	1	in	880-895
+Pp3c5_19940V3.3	memsat_svm	False	1	out	990-1005
+Pp3c19_16350V3.1	memsat_svm	False	1	in	252-267
+Pp3c19_20670V3.6	memsat_svm	False	1	out	304-319
+Pp3c7_5929V3.19	memsat_svm	False	1	in	2406-2421
+Pp3c1_28750V3.3	memsat_svm	True	1	out	281-296
+Pp3c21_12190V3.4	memsat_svm	False	1	in	562-577
+Pp3c8_18530V3.2	memsat_svm	False	1	in	45-60
+Pp3c18_9600V3.1	memsat_svm	False	1	out	298-328
+Pp3c2_35860V3.8	memsat_svm	False	1	out	768-783
+Pp3c2_17910V3.2	memsat_svm	False	2	in	321-336,357-372
+Pp3c1_860V3.2	memsat_svm	False	1	out	1437-1452
+Pp3c1_35770V3.4	memsat_svm	False	1	in	519-535
+Pp3c5_22320V3.2	memsat_svm	False	1	out	194-209
+Pp3c7_8710V3.5	memsat_svm	False	1	out	302-317
+Pp3c2_35750V3.3	memsat_svm	False	1	out	1438-1453
+Pp3c18_1260V3.1	memsat_svm	True	1	out	944-959
+Pp3c4_9940V3.2	memsat_svm	False	1	in	275-290
+Pp3c6_17350V3.3	memsat_svm	False	1	out	191-206
+Pp3c1_35770V3.2	memsat_svm	False	1	in	519-535
+Pp3c10_16040V3.5	memsat_svm	False	1	in	332-347
+Pp3c11_18940V3.5	memsat_svm	False	1	in	506-521
+Pp3c11_5280V3.12	memsat_svm	True	1	out	181-196
+Pp3c16_14340V3.4	memsat_svm	False	1	in	1325-1340
+Pp3c1_33770V3.4	memsat_svm	False	1	in	834-849
+Pp3c14_20090V3.11	memsat_svm	False	1	out	25-40
+Pp3c14_20090V3.1	memsat_svm	False	1	out	66-81
+Pp3c14_19990V3.1	memsat_svm	True	1	out	233-248
+Pp3c1_22210V3.2	memsat_svm	False	1	in	564-580
+Pp3c3_20130V3.1	memsat_svm	False	1	in	40-55
+Pp3c21_10800V3.3	memsat_svm	False	1	in	340-355
+Pp3c1_33770V3.10	memsat_svm	False	1	in	817-832
+Pp3c11_17010V3.1	memsat_svm	False	1	out	549-564
+Pp3c3_5520V3.2	memsat_svm	False	1	in	413-429
+Pp3c3_37660V3.3	memsat_svm	False	1	in	90-105
+Pp3c11_23370V3.5	memsat_svm	False	1	out	273-288
+Pp3c13_2290V3.2	memsat_svm	False	1	out	47-62
+Pp3c24_8230V3.1	memsat_svm	True	1	out	52-67
+Pp3c26_13780V3.2	memsat_svm	False	1	in	77-92
+Pp3c3_28590V3.2	memsat_svm	True	1	out	270-285
+Pp3c6_17350V3.2	memsat_svm	True	1	out	129-144
+Pp3c4_29810V3.5	memsat_svm	False	1	in	358-373
+Pp3c11_7230V3.3	memsat_svm	False	1	out	64-87
+Pp3s34_420V3.4	memsat_svm	False	1	out	473-488
+Pp3c18_1260V3.4	memsat_svm	True	1	out	995-1010
+Pp3c16_210V3.1	memsat_svm	False	1	out	921-936
+Pp3c3_21060V3.12	memsat_svm	False	1	out	49-64
+Pp3c15_5070V3.2	memsat_svm	False	1	out	314-329
+Pp3c7_8560V3.1	memsat_svm	False	1	in	236-251
+Pp3c8_19010V3.1	memsat_svm	True	1	out	724-739
+Pp3c19_20670V3.8	memsat_svm	False	1	out	304-319
+Pp3c8_3980V3.1	memsat_svm	True	1	out	159-174
+Pp3c4_29810V3.9	memsat_svm	False	1	in	358-373
+Pp3c18_16090V3.2	memsat_svm	False	1	in	378-393
+Pp3c14_17210V3.7	memsat_svm	False	1	out	333-348
+Pp3c20_6140V3.3	memsat_svm	False	1	in	352-367
+Pp3c8_19010V3.2	memsat_svm	True	1	out	1110-1126
+Pp3c5_19090V3.2	memsat_svm	False	1	in	308-323
+Pp3c13_15090V3.14	memsat_svm	False	1	out	49-64
+Pp3c11_22390V3.3	memsat_svm	False	1	in	379-394
+Pp3c4_16880V3.6	memsat_svm	False	1	out	99-114
+Pp3c12_21560V3.1	memsat_svm	False	1	in	156-171
+Pp3c3_23770V3.7	memsat_svm	False	1	in	900-915
+Pp3c4_21970V3.2	memsat_svm	False	1	out	956-971
+Pp3c6_27590V3.6	memsat_svm	False	1	in	723-738
+Pp3s92_30V3.1	memsat_svm	False	1	in	22-37
+Pp3c8_17100V3.10	memsat_svm	False	1	in	162-177
+Pp3c11_5280V3.4	memsat_svm	False	1	out	172-187
+Pp3c16_4220V3.3	memsat_svm	False	1	in	403-418
+Pp3c13_4450V3.1	memsat_svm	False	1	in	346-361
+Pp3c15_12800V3.1	memsat_svm	False	1	in	22-37
+Pp3c1_33770V3.3	memsat_svm	False	1	in	834-849
+Pp3c13_19810V3.1	memsat_svm	False	1	out	1259-1274
+Pp3c7_10240V3.1	memsat_svm	True	1	out	299-314
+Pp3c12_280V3.4	memsat_svm	False	1	out	207-222
+Pp3c7_24660V3.5	memsat_svm	False	1	in	71-86
+Pp3c15_23590V3.4	memsat_svm	False	1	in	210-225
+Pp3c1_22210V3.4	memsat_svm	False	1	in	563-579
+Pp3c6_8120V3.4	memsat_svm	False	1	out	692-707
+Pp3c20_4650V3.1	memsat_svm	False	1	out	4-19
+Pp3c3_14470V3.2	memsat_svm	False	1	in	848-863
+Pp3c12_13280V3.2	memsat_svm	False	1	in	668-683
+Pp3c1_12170V3.1	memsat_svm	False	1	in	115-130
+Pp3c20_15200V3.2	memsat_svm	False	1	in	196-211
+Pp3c3_23680V3.2	memsat_svm	False	1	out	2469-2484
+Pp3c7_2900V3.1	memsat_svm	False	1	out	1131-1146
+Pp3c3_34180V3.4	memsat_svm	True	1	out	346-361
+Pp3c11_24880V3.3	memsat_svm	False	1	out	232-248
+Pp3c10_11390V3.5	memsat_svm	False	1	in	198-213
+Pp3c14_22150V3.4	memsat_svm	False	1	in	954-970
+Pp3c2_37790V3.2	memsat_svm	False	1	in	179-194
+Pp3c7_11520V3.1	memsat_svm	True	1	out	322-337
+Pp3c14_18840V3.1	memsat_svm	False	1	in	16-31
+Pp3c26_4720V3.2	memsat_svm	True	1	out	517-532
+Pp3c11_18940V3.3	memsat_svm	False	1	in	506-521
+Pp3c8_18540V3.4	memsat_svm	False	1	in	123-138
+Pp3c18_1260V3.5	memsat_svm	True	1	out	995-1010
+Pp3c25_3220V3.1	memsat_svm	False	1	out	172-187
+Pp3c3_23770V3.8	memsat_svm	False	1	out	974-989
+Pp3c1_3700V3.1	memsat_svm	False	1	in	838-853
+Pp3c7_10240V3.3	memsat_svm	False	1	in	236-251
+Pp3c18_1260V3.8	memsat_svm	True	1	out	995-1010
+Pp3c26_180V3.3	memsat_svm	True	1	out	43-58
+Pp3c3_17380V3.1	memsat_svm	False	1	in	540-555
+Pp3c7_20570V3.2	memsat_svm	False	1	in	266-281
+Pp3c11_22390V3.1	memsat_svm	False	1	in	379-394
+Pp3c11_18840V3.2	memsat_svm	False	1	in	2337-2352
+Pp3c13_15090V3.15	memsat_svm	False	1	out	49-64
+Pp3c2_13990V3.1	memsat_svm	False	1	in	341-356
+Pp3c4_21590V3.2	memsat_svm	False	1	in	14-29
+Pp3c14_11190V3.3	memsat_svm	False	1	out	137-152
+Pp3c6_10210V3.4	memsat_svm	False	1	in	13-28
+Pp3c16_20970V3.1	memsat_svm	False	1	in	201-216
+Pp3c4_21970V3.3	memsat_svm	False	1	out	956-971
+Pp3c1_4600V3.2	memsat_svm	True	1	out	253-268
+Pp3c14_6480V3.6	memsat_svm	False	1	in	1121-1136
+Pp3c3_23770V3.6	memsat_svm	False	1	out	945-960
+Pp3c14_20090V3.6	memsat_svm	False	1	out	25-40
+Pp3c26_180V3.5	memsat_svm	True	1	out	43-58
+Pp3c3_37660V3.1	memsat_svm	False	1	in	91-106
+Pp3c14_6480V3.4	memsat_svm	False	1	in	1121-1136
+Pp3c1_37090V3.4	memsat_svm	False	1	in	712-727
+Pp3c11_5280V3.9	memsat_svm	True	1	out	49-64
+Pp3c19_7630V3.3	memsat_svm	False	1	out	301-316
+Pp3c18_17900V3.2	memsat_svm	False	1	out	67-82
+Pp3c1_35410V3.2	memsat_svm	False	1	in	48-63
+Pp3c8_250V3.1	memsat_svm	False	1	in	1578-1593
+Pp3c1_33770V3.2	memsat_svm	False	1	in	834-849
+Pp3c5_16090V3.4	memsat_svm	False	1	in	147-162
+Pp3c1_8530V3.3	memsat_svm	False	1	in	91-106
+Pp3c8_17100V3.13	memsat_svm	False	1	in	162-177
+Pp3c25_13620V3.2	memsat_svm	False	1	out	42-57
+Pp3c6_10390V3.3	memsat_svm	False	1	out	1008-1023
+Pp3c13_22780V3.3	memsat_svm	False	1	out	149-164
+Pp3c11_18940V3.6	memsat_svm	False	1	in	506-521
+Pp3c3_14470V3.3	memsat_svm	False	1	in	851-866
+Pp3c13_21910V3.5	memsat_svm	False	1	out	229-244
+Pp3c19_7560V3.4	memsat_svm	False	1	in	100-115
+Pp3c8_2040V3.5	memsat_svm	True	1	out	678-693
+Pp3c3_11220V3.1	memsat_svm	False	5	out	597-612,980-996,1175-1190,1400-1425,1445-1472
+Pp3c16_14340V3.2	memsat_svm	False	1	in	907-922
+Pp3c16_4220V3.4	memsat_svm	True	1	out	177-192
+Pp3c1_12290V3.1	memsat_svm	False	1	in	175-190
+Pp3c27_6760V3.3	memsat_svm	True	1	out	131-151
+Pp3c3_23770V3.5	memsat_svm	False	1	out	945-960
+Pp3c11_18940V3.1	memsat_svm	False	1	in	186-201
+Pp3c19_20670V3.3	memsat_svm	False	1	out	304-319
+Pp3c21_5060V3.2	memsat_svm	False	1	out	81-96
+Pp3c18_16090V3.3	memsat_svm	False	1	in	335-350
+Pp3c2_31650V3.5	memsat_svm	False	1	out	286-303
+Pp3c2_4060V3.3	memsat_svm	False	1	out	493-513
+Pp3c13_19680V3.1	memsat_svm	False	1	in	1202-1217
+Pp3c11_22580V3.2	memsat_svm	False	1	in	103-118
+Pp3c26_180V3.1	memsat_svm	True	1	out	43-58
+Pp3c16_3320V3.4	memsat_svm	False	1	in	143-158
+Pp3c2_22420V3.3	memsat_svm	True	1	out	115-130
+Pp3c23_4150V3.2	memsat_svm	False	1	in	294-309
+Pp3c13_15090V3.7	memsat_svm	False	1	out	49-64
+Pp3c14_26590V3.1	memsat_svm	False	1	out	37-52
+Pp3c11_24630V3.2	memsat_svm	False	1	out	624-639
+Pp3c14_17210V3.3	memsat_svm	False	1	out	333-348
+Pp3c19_20670V3.7	memsat_svm	False	1	out	304-319
+Pp3c6_27590V3.1	memsat_svm	False	1	in	723-738
+Pp3c15_3710V3.3	memsat_svm	False	1	in	72-87
+Pp3c16_14340V3.1	memsat_svm	False	1	in	1364-1379
+Pp3c2_30835V3.1	memsat_svm	False	1	in	538-553
+Pp3c14_2780V3.1	memsat_svm	False	1	in	342-357
+Pp3c1_13308V3.5	memsat_svm	True	1	out	279-296
+Pp3c25_7380V3.3	memsat_svm	False	1	in	57-72
+Pp3c7_5929V3.16	memsat_svm	False	1	in	2406-2421
+Pp3c1_34190V3.4	memsat_svm	False	1	in	122-137
+Pp3c4_26780V3.3	memsat_svm	False	1	out	181-196
+Pp3c14_2481V3.2	memsat_svm	False	1	out	143-158
+Pp3c2_35520V3.2	memsat_svm	False	1	in	351-366
+Pp3c8_17100V3.15	memsat_svm	False	1	in	162-177
+Pp3c4_9720V3.4	memsat_svm	False	1	in	707-722
+Pp3c5_19940V3.1	memsat_svm	False	1	out	989-1004
+Pp3c7_24670V3.1	memsat_svm	False	1	out	260-275
+Pp3c7_5929V3.11	memsat_svm	False	1	in	2426-2441
+Pp3c17_16550V3.6	memsat_svm	False	1	in	459-489
+Pp3c20_6140V3.5	memsat_svm	False	1	in	352-367
+Pp3c16_10290V3.1	memsat_svm	False	1	in	53-68
+Pp3c1_35770V3.6	memsat_svm	False	1	in	519-535
+Pp3c20_6140V3.2	memsat_svm	False	1	in	352-367
+Pp3c4_29810V3.1	memsat_svm	False	1	in	358-373
+Pp3c23_4150V3.1	memsat_svm	False	1	in	294-309
+Pp3c4_7160V3.1	memsat_svm	True	1	out	211-226
+Pp3c6_21780V3.1	memsat_svm	False	4	out	138-153,441-456,543-558,689-704
+Pp3c24_9610V3.2	memsat_svm	True	1	out	249-264
+Pp3c21_12190V3.2	memsat_svm	True	1	out	640-655
+Pp3c1_6380V3.1	memsat_svm	False	1	in	1025-1040
+Pp3c12_25750V3.3	memsat_svm	False	1	in	293-308
+Pp3c13_15090V3.17	memsat_svm	False	1	out	48-63
+Pp3c18_9600V3.5	memsat_svm	False	1	out	312-331
+Pp3c13_15090V3.8	memsat_svm	False	1	out	48-63
+Pp3c13_2290V3.1	memsat_svm	False	1	in	8-23
+Pp3c1_33770V3.11	memsat_svm	False	1	in	814-829
+Pp3c24_9610V3.4	memsat_svm	True	1	out	186-201
+Pp3c7_5929V3.15	memsat_svm	False	1	in	2406-2421
+Pp3c10_1790V3.3	memsat_svm	False	1	in	281-296
+Pp3c19_20670V3.4	memsat_svm	False	1	out	304-319
+Pp3c2_22420V3.4	memsat_svm	True	1	out	115-130
+Pp3c1_22230V3.1	memsat_svm	False	1	in	100-115
+Pp3c1_35410V3.3	memsat_svm	False	1	in	48-63
+Pp3c6_15100V3.4	memsat_svm	True	1	out	218-233
+Pp3c2_4060V3.2	memsat_svm	False	1	out	493-513
+Pp3c15_11610V3.2	memsat_svm	False	1	out	494-509
+Pp3c8_2040V3.2	memsat_svm	True	1	out	681-696
+Pp3c2_7410V3.2	memsat_svm	False	1	in	87-102
+Pp3c12_280V3.6	memsat_svm	False	1	in	280-295
+Pp3c11_23530V3.5	memsat_svm	False	1	in	104-119
+Pp3c20_17000V3.2	memsat_svm	False	1	in	255-270
+Pp3c6_27590V3.5	memsat_svm	False	1	in	723-738
+Pp3c2_31290V3.3	memsat_svm	False	1	in	94-109
+Pp3c2_11030V3.2	memsat_svm	False	1	in	1125-1140
+Pp3c6_24130V3.2	memsat_svm	False	1	in	125-140
+Pp3c2_17910V3.4	memsat_svm	False	2	in	321-336,356-371
+Pp3c14_11190V3.7	memsat_svm	False	1	out	137-152
+Pp3c1_17370V3.2	memsat_svm	True	1	out	178-193
+Pp3c21_10800V3.2	memsat_svm	False	1	in	340-355
+Pp3c18_15340V3.8	memsat_svm	False	1	in	767-782
+Pp3c1_35770V3.1	memsat_svm	False	1	in	519-535
+Pp3c13_17210V3.2	memsat_svm	False	1	out	37-52
+Pp3c3_34180V3.1	memsat_svm	True	1	out	346-361
+Pp3c14_11190V3.5	memsat_svm	False	1	out	137-152
+Pp3c2_31290V3.4	memsat_svm	False	1	in	94-109
+Pp3c19_20670V3.5	memsat_svm	False	1	out	304-319
+Pp3c14_21766V3.1	memsat_svm	False	1	in	742-757
+Pp3c2_8360V3.5	memsat_svm	False	1	in	115-130
+Pp3c4_16880V3.5	memsat_svm	False	1	in	93-108
+Pp3c1_12290V3.4	memsat_svm	False	1	in	170-185
+Pp3c8_3980V3.4	memsat_svm	True	1	out	88-103
+Pp3c6_27590V3.2	memsat_svm	False	1	in	723-738
+Pp3c20_6140V3.9	memsat_svm	False	1	in	386-401
+Pp3c7_2870V3.1	memsat_svm	False	1	in	220-235
+Pp3c1_37090V3.2	memsat_svm	False	1	in	712-727
+Pp3c20_6140V3.6	memsat_svm	False	1	in	352-367
+Pp3c3_21060V3.14	memsat_svm	False	1	out	48-63
+Pp3c24_6610V3.2	memsat_svm	False	1	in	389-404
+Pp3c13_4450V3.4	memsat_svm	True	1	out	350-365
+Pp3c1_11190V3.3	memsat_svm	False	1	in	94-109
+Pp3c11_24630V3.1	memsat_svm	False	1	out	624-639
+Pp3c6_7710V3.2	memsat_svm	False	1	in	1452-1467
+Pp3c3_21060V3.16	memsat_svm	False	1	out	48-63
+Pp3c1_8820V3.3	memsat_svm	False	1	in	94-109
+Pp3c1_4600V3.3	memsat_svm	True	1	out	253-268
+Pp3c1_13308V3.4	memsat_svm	True	1	out	279-296
+Pp3c13_15090V3.18	memsat_svm	False	1	out	66-81
+Pp3c2_3880V3.1	memsat_svm	True	1	out	197-212
+Pp3c6_24130V3.8	memsat_svm	False	1	in	125-140
+Pp3c2_11030V3.4	memsat_svm	False	1	in	747-762
+Pp3c16_12660V3.1	memsat_svm	False	1	in	118-136
+Pp3c8_17710V3.3	memsat_svm	True	1	out	1129-1144
+Pp3c25_7410V3.4	memsat_svm	False	1	in	57-72
+Pp3c1_29082V3.4	memsat_svm	False	2	in	316-333,353-368
+Pp3c11_1770V3.1	memsat_svm	False	1	out	33-48
+Pp3c5_24460V3.2	memsat_svm	False	1	out	659-674
+Pp3c13_17210V3.1	memsat_svm	False	1	out	37-52
+Pp3c22_7900V3.2	memsat_svm	False	3	out	319-334,363-378,395-411
+Pp3c16_10320V3.2	memsat_svm	False	1	in	53-68
+Pp3c13_13210V3.2	memsat_svm	False	1	in	191-206
+Pp3c14_90V3.2	memsat_svm	False	1	in	1509-1524
+Pp3c10_19380V3.2	memsat_svm	True	1	out	204-219
+Pp3c6_4460V3.5	memsat_svm	False	1	in	660-675
+Pp3s34_420V3.2	memsat_svm	False	1	out	184-209
+Pp3c24_15860V3.1	memsat_svm	False	1	in	162-177
+Pp3c21_10800V3.1	memsat_svm	False	1	in	340-355
+Pp3c2_11030V3.3	memsat_svm	False	1	in	746-761
+Pp3c3_30220V3.2	memsat_svm	False	1	out	1189-1204
+Pp3c7_2900V3.4	memsat_svm	False	1	out	887-902
+Pp3c18_6090V3.5	memsat_svm	False	1	in	254-269
+Pp3c3_37640V3.1	memsat_svm	False	1	out	274-299
+Pp3c2_30835V3.2	memsat_svm	False	1	in	538-553
+Pp3c8_230V3.1	memsat_svm	False	1	in	15-30
+Pp3c5_19640V3.2	memsat_svm	False	1	in	636-651
+Pp3c18_9600V3.4	memsat_svm	False	1	in	819-839
+Pp3c25_240V3.1	memsat_svm	True	1	out	61-76
+Pp3c4_3810V3.3	memsat_svm	True	1	out	310-325
+Pp3c20_6140V3.14	memsat_svm	False	1	in	540-555
+Pp3c13_20600V3.3	memsat_svm	True	1	out	135-150
+Pp3c3_14470V3.1	memsat_svm	False	1	in	673-688
+Pp3c18_11770V3.8	memsat_svm	False	1	out	794-809
+Pp3c17_3610V3.5	memsat_svm	False	1	in	49-64
+Pp3c10_2450V3.11	memsat_svm	False	1	out	611-626
+Pp3c2_35860V3.12	memsat_svm	False	1	out	768-783
+Pp3c16_20970V3.3	memsat_svm	False	1	in	201-216
+Pp3c11_18790V3.1	memsat_svm	False	1	in	222-237
+Pp3c7_26020V3.1	memsat_svm	False	1	in	94-109
+Pp3c3_36750V3.4	memsat_svm	False	1	out	120-135
+Pp3c11_17010V3.4	memsat_svm	False	1	out	549-564
+Pp3c9_18800V3.1	memsat_svm	False	1	in	334-349
+Pp3c15_19270V3.2	memsat_svm	False	1	in	16-31
+Pp3c4_16880V3.3	memsat_svm	False	1	out	98-113
+Pp3c14_17210V3.16	memsat_svm	False	1	out	333-348
+Pp3c12_870V3.2	memsat_svm	False	1	out	300-315
+Pp3c14_18250V3.1	memsat_svm	False	1	out	115-130
+Pp3c6_27590V3.7	memsat_svm	False	1	in	723-738
+Pp3c14_6480V3.1	memsat_svm	False	1	in	1121-1136
+Pp3c12_21590V3.1	memsat_svm	False	1	out	290-305
+Pp3c11_5280V3.3	memsat_svm	True	1	out	120-135
+Pp3c15_19200V3.1	memsat_svm	False	1	out	233-248
+Pp3c15_14880V3.2	memsat_svm	False	1	in	335-350
+Pp3c10_6780V3.2	memsat_svm	False	1	out	40-55
+Pp3c27_5750V3.1	memsat_svm	True	3	out	43-58,74-102,116-131
+Pp3c14_20090V3.4	memsat_svm	False	1	out	43-58
+Pp3c4_8660V3.2	memsat_svm	False	1	out	139-154
+Pp3c1_33770V3.7	memsat_svm	False	1	in	834-849
+Pp3c2_9560V3.1	memsat_svm	True	1	out	333-348
+Pp3c21_15940V3.1	memsat_svm	False	1	in	318-333
+Pp3c3_37320V3.2	memsat_svm	False	1	in	95-110
+Pp3c26_5950V3.2	memsat_svm	False	1	in	673-688
+Pp3c2_35860V3.4	memsat_svm	False	1	out	768-783
+Pp3c6_6640V3.1	memsat_svm	False	1	in	119-134
+Pp3s46_220V3.1	memsat_svm	False	1	out	200-215
+Pp3c4_19510V3.3	memsat_svm	True	1	out	142-157
+Pp3c10_1790V3.6	memsat_svm	False	1	out	199-214
+Pp3c1_35410V3.1	memsat_svm	False	1	in	48-63
+Pp3c16_18950V3.4	memsat_svm	False	1	out	662-677
+Pp3c6_15100V3.1	memsat_svm	False	1	in	60-75
+Pp3c8_14720V3.1	memsat_svm	False	1	in	398-413
+Pp3c7_5929V3.7	memsat_svm	False	1	in	2426-2441
+Pp3c7_2900V3.3	memsat_svm	False	1	out	1060-1075
+Pp3c13_15090V3.4	memsat_svm	False	1	out	49-64
+Pp3c7_5929V3.12	memsat_svm	False	1	in	2426-2441
+Pp3c5_22610V3.4	memsat_svm	False	1	in	25-40
+Pp3c10_13800V3.1	memsat_svm	False	1	out	1683-1698
+Pp3c3_21060V3.4	memsat_svm	False	1	out	48-63
+Pp3c16_210V3.2	memsat_svm	False	1	out	921-936
+Pp3c16_12660V3.3	memsat_svm	False	1	in	118-136
+Pp3c12_9920V3.6	memsat_svm	True	1	out	45-60
+Pp3c18_1260V3.3	memsat_svm	True	1	out	790-805
+Pp3c7_5929V3.1	memsat_svm	False	1	in	2376-2391
+Pp3c24_19330V3.3	memsat_svm	True	1	out	1127-1143
+Pp3c1_29082V3.1	memsat_svm	False	2	in	317-332,353-368
+Pp3c19_860V3.2	memsat_svm	False	1	out	209-224
+Pp3c2_35860V3.6	memsat_svm	False	1	out	768-783
+Pp3c8_19010V3.7	memsat_svm	True	1	out	1110-1126
+Pp3c2_4060V3.8	memsat_svm	False	1	out	493-513
+Pp3c26_1300V3.1	memsat_svm	False	1	out	292-307
+Pp3c13_23373V3.2	memsat_svm	False	1	out	265-280
+Pp3c5_19940V3.4	memsat_svm	False	1	out	990-1005
+Pp3c21_14490V3.2	memsat_svm	False	3	in	113-139,187-202,474-489
+Pp3c1_3760V3.1	memsat_svm	False	1	in	8-23
+Pp3c11_24880V3.7	memsat_svm	False	1	out	232-248
+Pp3c4_26780V3.4	memsat_svm	False	1	out	181-196
+Pp3c8_2040V3.4	memsat_svm	False	1	in	605-620
+Pp3c10_13060V3.3	memsat_svm	False	1	out	123-138
+Pp3c1_34190V3.2	memsat_svm	False	1	in	122-137
+Pp3c19_7560V3.3	memsat_svm	False	1	in	100-115
+Pp3c16_16990V3.2	memsat_svm	True	1	out	451-474
+Pp3c18_3810V3.2	memsat_svm	False	1	out	41-56
+Pp3c8_21700V3.1	memsat_svm	False	1	out	272-287
+Pp3c7_5920V3.1	memsat_svm	False	1	in	2426-2441
+Pp3c9_8270V3.1	memsat_svm	False	1	out	805-820
+Pp3c18_13500V3.1	memsat_svm	False	1	in	1574-1589
+Pp3c19_10210V3.2	memsat_svm	True	1	out	106-121
+Pp3c2_12540V3.2	memsat_svm	False	1	in	831-846
+Pp3c27_3890V3.2	memsat_svm	False	1	in	573-588
+Pp3c14_2650V3.1	memsat_svm	False	1	in	616-631
+Pp3c11_23370V3.3	memsat_svm	False	1	out	273-288
+Pp3c7_5929V3.5	memsat_svm	False	1	in	2430-2445
+Pp3c15_3710V3.2	memsat_svm	False	1	in	72-87
+Pp3c2_31290V3.1	memsat_svm	False	1	in	94-109
+Pp3c4_21970V3.6	memsat_svm	False	1	out	956-971
+Pp3c24_6610V3.1	memsat_svm	False	1	in	389-404
+Pp3c2_4871V3.1	memsat_svm	False	1	in	702-717
+Pp3c2_35750V3.2	memsat_svm	False	1	out	41-56
+Pp3c11_17010V3.5	memsat_svm	False	1	out	546-561
+Pp3c20_6140V3.11	memsat_svm	False	1	in	386-401
+Pp3c4_1631V3.5	memsat_svm	True	1	out	776-791
+Pp3c14_2481V3.1	memsat_svm	False	1	out	143-158
+Pp3c8_14490V3.3	memsat_svm	False	1	out	188-203
+Pp3c14_17210V3.4	memsat_svm	False	1	out	333-348
+Pp3c17_18070V3.1	memsat_svm	False	1	in	719-734
+Pp3c3_21060V3.15	memsat_svm	False	1	out	49-64
+Pp3c13_20600V3.2	memsat_svm	True	1	out	136-151
+Pp3c10_16040V3.1	memsat_svm	False	1	in	235-250
+Pp3c27_4220V3.1	memsat_svm	False	1	out	31-46
+Pp3c5_19640V3.1	memsat_svm	False	1	in	636-651
+Pp3c5_280V3.3	memsat_svm	False	1	in	722-737
+Pp3c5_280V3.4	memsat_svm	False	1	in	724-739
+Pp3c25_7380V3.1	memsat_svm	False	1	in	57-72
+Pp3c16_20970V3.6	memsat_svm	False	1	in	201-216
+Pp3c8_3980V3.2	memsat_svm	True	1	out	130-145
+Pp3c5_20190V3.2	memsat_svm	False	1	in	1428-1443
+Pp3c13_21910V3.4	memsat_svm	False	1	out	248-263
+Pp3c4_29810V3.3	memsat_svm	False	1	in	358-373
+Pp3c10_16040V3.3	memsat_svm	False	1	in	332-347
+Pp3c16_18950V3.7	memsat_svm	False	1	out	720-735
+Pp3c12_9920V3.2	memsat_svm	True	1	out	45-60
+Pp3c25_12300V3.4	memsat_svm	False	1	out	351-366
+Pp3c25_10710V3.2	memsat_svm	False	1	in	905-920
+Pp3c4_29810V3.10	memsat_svm	False	1	in	358-373
+Pp3c8_14490V3.4	memsat_svm	False	1	out	188-203
+Pp3c26_5450V3.1	memsat_svm	False	1	out	304-319
+Pp3c5_5030V3.3	memsat_svm	False	1	in	95-110
+Pp3c3_20130V3.3	memsat_svm	False	1	in	40-55
+Pp3c14_6480V3.2	memsat_svm	False	1	in	1121-1136
+Pp3c16_20970V3.7	memsat_svm	False	1	in	201-216
+Pp3c2_17910V3.1	memsat_svm	False	2	in	321-336,357-372
+Pp3c14_19990V3.2	memsat_svm	True	1	out	233-248
+Pp3c12_13280V3.3	memsat_svm	False	1	in	633-648
+Pp3c24_19330V3.5	memsat_svm	True	1	out	1127-1143
+Pp3c8_2040V3.3	memsat_svm	True	1	out	681-696
+Pp3c17_350V3.1	memsat_svm	False	1	in	943-958
+Pp3c8_18540V3.8	memsat_svm	False	1	in	123-138
+Pp3s34_620V3.1	memsat_svm	True	1	out	423-448
+Pp3c15_5070V3.1	memsat_svm	False	1	out	320-335
+Pp3c1_28750V3.1	memsat_svm	True	1	out	281-296
+Pp3c10_2450V3.9	memsat_svm	False	1	out	611-626
+Pp3c1_8530V3.2	memsat_svm	False	1	out	76-91
+Pp3c22_17280V3.2	memsat_svm	False	1	out	1641-1656
+Pp3c17_19520V3.3	memsat_svm	False	1	in	153-168
+Pp3c18_19045V3.1	memsat_svm	False	1	in	340-355
+Pp3c12_9920V3.5	memsat_svm	True	1	out	45-60
+Pp3c1_33770V3.9	memsat_svm	False	1	in	817-832
+Pp3c19_9910V3.1	memsat_svm	False	1	out	1362-1377
+Pp3c14_11190V3.4	memsat_svm	False	1	out	137-152
+Pp3c1_12290V3.5	memsat_svm	False	1	out	269-284
+Pp3c18_6090V3.6	memsat_svm	False	1	in	254-269
+Pp3c11_23530V3.4	memsat_svm	False	1	in	104-119
+Pp3c1_32380V3.1	memsat_svm	False	1	in	49-64
+Pp3c3_28590V3.3	memsat_svm	True	1	out	270-285
+Pp3c17_18070V3.3	memsat_svm	False	1	in	719-734
+Pp3c14_17210V3.2	memsat_svm	False	1	out	333-348
+Pp3c4_16880V3.1	memsat_svm	False	1	out	105-120
+Pp3c14_20090V3.7	memsat_svm	False	1	out	67-82
+Pp3c16_17020V3.3	memsat_svm	False	1	out	492-507
+Pp3c21_10520V3.2	memsat_svm	False	1	in	49-64
+Pp3c8_14490V3.2	memsat_svm	False	1	out	188-203
+Pp3c21_19030V3.3	memsat_svm	False	1	in	249-264
+Pp3c1_860V3.6	memsat_svm	False	1	out	1437-1452
+Pp3c26_12150V3.1	memsat_svm	False	1	in	64-79
+Pp3c8_17710V3.1	memsat_svm	True	1	out	1129-1144
+Pp3c14_18250V3.3	memsat_svm	False	1	in	240-255
+Pp3c11_5280V3.10	memsat_svm	True	1	out	23-38
+Pp3c3_23680V3.1	memsat_svm	False	1	out	2668-2683
+Pp3c6_27590V3.8	memsat_svm	False	1	in	723-738
+Pp3c10_2450V3.17	memsat_svm	False	1	out	611-626
+Pp3c10_1790V3.5	memsat_svm	False	1	out	78-93
+Pp3c18_11770V3.7	memsat_svm	False	1	out	794-809
+Pp3c14_11190V3.1	memsat_svm	False	1	out	137-152
+Pp3c7_5929V3.3	memsat_svm	False	1	in	2395-2410
+Pp3c17_7580V3.2	memsat_svm	False	1	in	33-48
+Pp3c7_11520V3.5	memsat_svm	False	1	in	551-566
+Pp3s504_10V3.2	memsat_svm	False	1	in	119-134
+Pp3c11_22580V3.1	memsat_svm	False	1	in	103-118
+Pp3c2_31650V3.1	memsat_svm	False	1	out	286-303
+Pp3c13_24550V3.1	memsat_svm	False	1	out	39-54
+Pp3c19_10210V3.7	memsat_svm	True	1	out	106-121
+Pp3c10_1790V3.4	memsat_svm	False	1	in	281-296
+Pp3c16_17020V3.2	memsat_svm	False	1	out	686-701
+Pp3c1_37090V3.3	memsat_svm	False	1	in	712-727
+Pp3c10_6710V3.1	memsat_svm	False	1	out	61-76
+Pp3c10_13060V3.4	memsat_svm	False	1	out	123-138
+Pp3c5_22610V3.2	memsat_svm	False	1	in	25-40
+Pp3c18_19045V3.3	memsat_svm	False	1	in	340-355
+Pp3c7_5929V3.6	memsat_svm	False	1	in	2430-2445
+Pp3c3_21060V3.10	memsat_svm	False	1	out	49-64
+Pp3c6_15430V3.3	memsat_svm	False	1	in	88-103
+Pp3c16_16990V3.1	memsat_svm	True	1	out	451-474
+Pp3c2_9560V3.2	memsat_svm	True	1	out	333-348
+Pp3c18_19040V3.1	memsat_svm	False	1	in	340-355
+Pp3c24_13770V3.5	memsat_svm	True	1	out	1206-1223
+Pp3c6_10390V3.1	memsat_svm	False	1	in	736-751
+Pp3c8_18540V3.9	memsat_svm	False	1	in	123-138
+Pp3c10_11390V3.4	memsat_svm	False	1	in	198-213
+Pp3c3_34180V3.3	memsat_svm	True	1	out	346-361
+Pp3c6_10390V3.6	memsat_svm	False	1	out	1008-1023
+Pp3c6_4460V3.2	memsat_svm	False	1	in	660-675
+Pp3c20_6140V3.4	memsat_svm	False	1	in	352-367
+Pp3c13_15090V3.11	memsat_svm	False	1	out	48-63
+Pp3c3_36750V3.5	memsat_svm	False	1	out	120-135
+Pp3c13_22780V3.1	memsat_svm	False	1	out	149-164
+Pp3c13_22780V3.2	memsat_svm	False	1	out	149-164
+Pp3c18_1260V3.9	memsat_svm	True	1	out	604-619
+Pp3c1_28750V3.2	memsat_svm	True	1	out	281-296
+Pp3c1_36240V3.2	memsat_svm	False	1	in	444-459
+Pp3c14_2780V3.2	memsat_svm	False	1	in	342-357
+Pp3c8_18540V3.2	memsat_svm	False	1	in	123-138
+Pp3c4_21200V3.2	memsat_svm	False	1	in	79-94
+Pp3c14_11190V3.2	memsat_svm	False	1	out	137-152
+Pp3c3_21060V3.1	memsat_svm	False	1	out	48-63
+Pp3c11_22570V3.6	memsat_svm	True	1	out	1140-1155
+Pp3c2_27490V3.3	memsat_svm	True	1	out	89-104
+Pp3c19_7560V3.1	memsat_svm	False	1	in	100-115
+Pp3c9_8270V3.6	memsat_svm	False	1	out	749-764
+Pp3c4_3810V3.1	memsat_svm	True	1	out	264-279
+Pp3c3_20030V3.2	memsat_svm	False	1	out	291-321
+Pp3c7_5929V3.13	memsat_svm	False	1	in	2411-2426
+Pp3c6_3500V3.1	memsat_svm	False	1	out	1048-1063
+Pp3c6_15100V3.2	memsat_svm	False	1	in	193-208
+Pp3c27_5750V3.2	memsat_svm	True	2	out	115-130,226-242
+Pp3c16_20970V3.8	memsat_svm	False	1	in	201-216
+Pp3c2_4060V3.6	memsat_svm	False	1	out	493-513
+Pp3c19_11580V3.5	memsat_svm	False	1	out	118-148
+Pp3c5_19940V3.5	memsat_svm	False	1	out	990-1005
+Pp3c11_8530V3.1	memsat_svm	False	1	in	264-279
+Pp3c3_21060V3.3	memsat_svm	False	1	out	48-63
+Pp3c1_31190V3.1	memsat_svm	False	1	in	155-170
+Pp3c2_4060V3.7	memsat_svm	False	1	out	493-513
+Pp3c16_15610V3.1	memsat_svm	False	1	in	205-220
+Pp3c24_16180V3.3	memsat_svm	False	1	out	733-748
+Pp3c1_34190V3.5	memsat_svm	False	1	in	122-137
+Pp3c9_8270V3.3	memsat_svm	False	1	out	805-820
+Pp3c3_21060V3.8	memsat_svm	False	1	out	49-64
+Pp3c14_17210V3.18	memsat_svm	False	1	out	333-348
+Pp3c19_10210V3.8	memsat_svm	True	1	out	106-121
+Pp3c10_24570V3.1	memsat_svm	False	1	in	38-53
+Pp3c18_1260V3.7	memsat_svm	True	1	out	995-1010
+Pp3c8_19010V3.3	memsat_svm	True	1	out	1110-1126
+Pp3c12_9920V3.7	memsat_svm	True	1	out	45-60
+Pp3c6_17350V3.4	memsat_svm	True	1	out	191-206
+Pp3c12_21590V3.2	memsat_svm	False	1	out	290-305
+Pp3c13_15090V3.12	memsat_svm	False	1	out	48-63
+Pp3c1_860V3.4	memsat_svm	False	1	out	1437-1452
+Pp3c14_6480V3.7	memsat_svm	False	1	in	1121-1136
+Pp3c14_17210V3.15	memsat_svm	False	1	out	333-348
+Pp3c10_2450V3.8	memsat_svm	False	1	out	611-626
+Pp3c24_8230V3.5	memsat_svm	True	1	out	52-67
+Pp3c1_22210V3.3	memsat_svm	False	1	in	564-580
+Pp3c15_19200V3.2	memsat_svm	False	1	out	209-224
+Pp3c1_110V3.1	memsat_svm	False	1	out	194-209
+Pp3c11_8530V3.2	memsat_svm	False	1	in	264-279
+Pp3c6_8120V3.3	memsat_svm	False	1	out	692-707
+Pp3c1_38360V3.1	memsat_svm	False	1	out	175-190
+Pp3c10_2450V3.14	memsat_svm	False	1	out	611-626
+Pp3c22_22940V3.3	memsat_svm	False	1	out	659-674
+Pp3c19_10210V3.5	memsat_svm	True	1	out	106-121
+Pp3c15_18060V3.3	memsat_svm	False	1	out	886-901
+Pp3c13_4610V3.1	memsat_svm	False	1	in	92-107
+Pp3c4_29810V3.7	memsat_svm	False	1	in	358-373
+Pp3c19_11580V3.6	memsat_svm	False	1	out	118-148
+Pp3c16_17020V3.1	memsat_svm	False	1	in	134-149
+Pp3c15_5060V3.2	memsat_svm	False	1	out	578-593
+Pp3c13_15090V3.6	memsat_svm	False	1	out	49-64
+Pp3c18_3810V3.3	memsat_svm	False	1	out	35-50
+Pp3c6_12160V3.1	memsat_svm	False	1	in	226-241
+Pp3c21_10800V3.4	memsat_svm	False	1	in	340-355
+Pp3c7_24660V3.8	memsat_svm	False	1	in	80-95
+Pp3c1_34190V3.1	memsat_svm	False	1	in	122-137
+Pp3c14_2500V3.1	memsat_svm	False	1	out	30-50
+Pp3c2_9470V3.2	memsat_svm	False	1	out	261-276
+Pp3c1_13308V3.3	memsat_svm	True	1	out	279-296
+Pp3c13_4600V3.2	memsat_svm	False	1	in	109-124
+Pp3c5_5030V3.2	memsat_svm	False	1	in	94-109
+Pp3c8_14940V3.2	memsat_svm	True	1	out	1120-1137
+Pp3c6_24130V3.9	memsat_svm	False	1	in	125-140
+Pp3s504_10V3.1	memsat_svm	False	1	in	119-134
+Pp3c7_24660V3.1	memsat_svm	False	1	in	80-95
+Pp3c1_33770V3.6	memsat_svm	False	1	in	834-849
+Pp3c19_7630V3.2	memsat_svm	False	1	out	422-437
+Pp3c12_9920V3.4	memsat_svm	True	1	out	45-60
+Pp3c8_17100V3.6	memsat_svm	False	1	in	162-177
+Pp3c10_2280V3.2	memsat_svm	False	1	in	1841-1859
+Pp3c18_15340V3.1	memsat_svm	False	1	in	631-646
+Pp3c16_16990V3.3	memsat_svm	True	1	out	457-480
+Pp3c21_19030V3.1	memsat_svm	False	1	in	249-264
+Pp3c25_4520V3.3	memsat_svm	False	1	in	308-323
+Pp3c13_16380V3.2	memsat_svm	True	1	out	356-371
+Pp3c7_2140V3.1	memsat_svm	False	1	out	361-376
+Pp3c14_17210V3.13	memsat_svm	False	1	out	333-348
+Pp3c24_16720V3.2	memsat_svm	False	1	in	443-458
+Pp3c3_27330V3.1	memsat_svm	False	1	in	156-171
+Pp3c26_5950V3.3	memsat_svm	False	1	in	673-688
+Pp3c15_21210V3.1	memsat_svm	False	1	in	212-227
+Pp3c1_35410V3.4	memsat_svm	False	1	in	48-63
+Pp3c21_12190V3.3	memsat_svm	True	1	out	640-655
+Pp3c18_11770V3.1	memsat_svm	False	1	out	869-884
+Pp3c2_35420V3.1	memsat_svm	False	1	in	666-681
+Pp3c2_8360V3.4	memsat_svm	False	1	in	115-130
+Pp3c2_32500V3.1	memsat_svm	False	1	in	1348-1363
+Pp3c6_4460V3.4	memsat_svm	False	1	in	660-675
+Pp3c13_8050V3.2	memsat_svm	False	1	out	49-64
+Pp3c8_25400V3.1	memsat_svm	False	1	in	10-25
+Pp3c17_14350V3.2	memsat_svm	False	1	out	133-148
+Pp3c18_9600V3.3	memsat_svm	False	1	in	819-839
+Pp3c3_23770V3.1	memsat_svm	False	1	out	1146-1161
+Pp3c8_14940V3.3	memsat_svm	True	1	out	1120-1137
+Pp3c5_5030V3.4	memsat_svm	False	1	in	95-110
+Pp3c10_2450V3.1	memsat_svm	False	1	out	611-626
+Pp3c1_33770V3.12	memsat_svm	False	1	in	834-849
+Pp3c3_27330V3.2	memsat_svm	False	1	in	156-171
+Pp3c8_18540V3.6	memsat_svm	False	1	in	123-138
+Pp3c24_19330V3.2	memsat_svm	True	1	out	1125-1141
+Pp3c24_16180V3.2	memsat_svm	False	1	out	830-845
+Pp3c8_3310V3.1	memsat_svm	False	1	out	122-137
+Pp3c10_2450V3.2	memsat_svm	False	1	out	611-626
+Pp3c15_6140V3.2	memsat_svm	False	1	in	578-593
+Pp3c5_24460V3.1	memsat_svm	False	1	out	659-674
+Pp3c5_19940V3.2	memsat_svm	False	1	out	989-1004
+Pp3c2_10000V3.1	memsat_svm	False	1	out	279-294
+Pp3c3_11220V3.4	memsat_svm	False	2	out	143-165,169-193
+Pp3c10_6780V3.1	memsat_svm	False	1	out	40-55
+Pp3c4_29810V3.13	memsat_svm	False	1	in	358-373
+Pp3c18_9600V3.2	memsat_svm	False	1	out	298-328
+Pp3c14_17210V3.11	memsat_svm	False	1	out	333-348
+Pp3c4_21590V3.1	memsat_svm	False	1	in	14-29
+Pp3c13_15090V3.19	memsat_svm	False	1	out	48-63
+Pp3c3_37660V3.2	memsat_svm	False	1	in	91-106
+Pp3c8_2040V3.6	memsat_svm	False	1	in	602-617
+Pp3c7_8710V3.4	memsat_svm	False	1	out	708-723
+Pp3c11_7230V3.1	memsat_svm	False	1	in	83-98
+Pp3c11_26820V3.2	memsat_svm	True	1	out	242-257
+Pp3c24_8230V3.6	memsat_svm	True	1	out	52-67
+Pp3c8_14490V3.1	memsat_svm	False	1	out	188-203
+Pp3c11_15070V3.2	memsat_svm	False	1	out	82-97
+Pp3c10_1790V3.1	memsat_svm	False	1	out	286-301
+Pp3c7_20570V3.1	memsat_svm	False	1	in	266-281
+Pp3c24_19330V3.6	memsat_svm	True	1	out	1127-1143
+Pp3c4_16880V3.7	memsat_svm	False	1	out	93-108
+Pp3c8_17100V3.8	memsat_svm	False	1	in	162-177
+Pp3c9_18080V3.1	memsat_svm	False	1	in	251-266
+Pp3c2_22420V3.1	memsat_svm	True	1	out	115-130
+Pp3c4_26780V3.1	memsat_svm	False	1	out	224-239
+Pp3c12_25750V3.2	memsat_svm	False	1	in	635-650
+Pp3c5_4210V3.1	memsat_svm	False	1	in	46-61
+Pp3s34_330V3.1	memsat_svm	False	1	out	470-485
+Pp3c1_11190V3.2	memsat_svm	False	1	in	134-149
+Pp3c19_10210V3.6	memsat_svm	True	1	out	105-120
+Pp3c3_30220V3.1	memsat_svm	False	1	out	1189-1204
+Pp3c15_5060V3.1	memsat_svm	False	1	out	578-593
+Pp3c15_4950V3.1	memsat_svm	False	1	out	18-33
+Pp3c19_16350V3.2	memsat_svm	False	1	in	252-267
+Pp3c24_13770V3.7	memsat_svm	True	1	out	1206-1223
+Pp3c8_18540V3.1	memsat_svm	False	1	in	123-138
+Pp3c14_17210V3.5	memsat_svm	False	1	out	333-348
+Pp3c24_14110V3.2	memsat_svm	False	1	in	137-152
+Pp3c22_22940V3.2	memsat_svm	False	1	out	495-510
+Pp3c27_3890V3.3	memsat_svm	False	1	in	573-588
+Pp3c13_21910V3.3	memsat_svm	False	1	out	248-263
+Pp3c6_10390V3.2	memsat_svm	False	1	in	736-751
+Pp3c17_14770V3.1	memsat_svm	False	1	in	120-135
+Pp3c11_24880V3.5	memsat_svm	False	1	in	145-160
+Pp3c20_4650V3.2	memsat_svm	False	1	out	4-19
+Pp3c11_18840V3.1	memsat_svm	False	1	in	2347-2362
+Pp3c3_5580V3.3	memsat_svm	False	1	out	47-62
+Pp3c2_3510V3.1	memsat_svm	False	1	in	434-449
+Pp3c25_3225V3.2	memsat_svm	False	1	out	172-187
+Pp3c12_280V3.5	memsat_svm	False	1	in	280-295
+Pp3c14_22150V3.1	memsat_svm	False	1	in	954-970
+Pp3c18_6090V3.3	memsat_svm	False	1	out	366-381
+Pp3c16_3320V3.2	memsat_svm	False	1	in	143-158
+Pp3c5_22320V3.1	memsat_svm	False	1	out	109-124
+Pp3c3_5580V3.2	memsat_svm	False	1	out	14-29
+Pp3c2_17910V3.5	memsat_svm	False	2	in	321-336,357-372
+Pp3c21_12900V3.2	memsat_svm	False	1	out	652-667
+Pp3c12_280V3.2	memsat_svm	False	1	out	327-342
+Pp3c18_6090V3.7	memsat_svm	False	1	in	283-298
+Pp3c24_13770V3.4	memsat_svm	True	1	out	1208-1225
+Pp3c19_7560V3.2	memsat_svm	False	1	in	100-115
+Pp3c11_18940V3.4	memsat_svm	False	1	in	506-521
+Pp3c13_21910V3.2	memsat_svm	False	1	out	249-264
+Pp3c12_9920V3.8	memsat_svm	True	1	out	45-60
+Pp3c10_2450V3.13	memsat_svm	False	1	out	611-626
+Pp3c2_35520V3.3	memsat_svm	False	1	in	351-366
+Pp3s34_420V3.3	memsat_svm	False	1	in	141-166
+Pp3c2_35860V3.9	memsat_svm	False	1	out	768-783
+Pp3c25_12300V3.1	memsat_svm	False	1	out	351-366
+Pp3c3_21060V3.13	memsat_svm	False	1	out	48-63
+Pp3c16_18950V3.2	memsat_svm	False	1	out	720-735
+Pp3c4_21200V3.4	memsat_svm	False	1	in	79-94
+Pp3c15_18060V3.1	memsat_svm	False	1	out	886-901
+Pp3c10_13800V3.3	memsat_svm	False	1	out	1289-1304
+Pp3c16_18950V3.8	memsat_svm	False	1	out	720-735
+Pp3s504_10V3.4	memsat_svm	False	1	in	119-134
+Pp3c22_22940V3.1	memsat_svm	False	1	out	659-674
+Pp3c4_7202V3.1	memsat_svm	False	1	out	187-202
+Pp3c17_16550V3.1	memsat_svm	False	1	in	459-489
+Pp3c5_25760V3.2	memsat_svm	False	1	in	916-931
+Pp3c17_18070V3.2	memsat_svm	False	1	in	719-734
+Pp3c7_3340V3.2	memsat_svm	False	1	in	210-225
+Pp3c6_15430V3.2	memsat_svm	False	1	in	88-103
+Pp3c11_5280V3.5	memsat_svm	False	1	out	198-213
+Pp3c26_5120V3.1	memsat_svm	False	1	in	375-390
+Pp3c7_3340V3.1	memsat_svm	False	1	in	210-225
+Pp3c13_19810V3.2	memsat_svm	False	1	in	976-991
+Pp3c4_3810V3.4	memsat_svm	True	1	out	310-325
+Pp3c15_18060V3.2	memsat_svm	False	1	out	784-799
+Pp3c26_13780V3.1	memsat_svm	False	1	out	226-243
+Pp3c5_280V3.8	memsat_svm	False	1	in	755-770
+Pp3c5_12730V3.3	memsat_svm	False	1	in	238-253
+Pp3c2_10000V3.2	memsat_svm	True	1	out	279-294
+Pp3c1_29082V3.3	memsat_svm	False	2	in	316-332,353-368
+Pp3c4_21200V3.3	memsat_svm	False	1	in	170-185
+Pp3c20_14020V3.2	memsat_svm	False	1	in	70-85
+Pp3c13_16380V3.3	memsat_svm	True	1	out	356-371
+Pp3c2_35420V3.2	memsat_svm	False	1	in	666-681
+Pp3c6_17350V3.1	memsat_svm	True	1	out	129-144
+Pp3c20_11500V3.2	memsat_svm	False	1	in	682-697
+Pp3c11_22570V3.5	memsat_svm	False	1	out	960-975
+Pp3c9_18080V3.2	memsat_svm	False	1	in	250-267
+Pp3c9_4400V3.1	memsat_svm	False	1	in	322-337
+Pp3c1_29080V3.1	memsat_svm	False	2	in	317-332,353-368
+Pp3c18_11770V3.3	memsat_svm	False	1	out	707-722
+Pp3c8_17710V3.5	memsat_svm	True	1	out	1129-1144
+Pp3c14_22150V3.2	memsat_svm	False	1	in	954-970
+Pp3c1_8820V3.1	memsat_svm	False	1	in	94-109
+Pp3c2_31290V3.5	memsat_svm	False	1	in	94-109
+Pp3c11_24880V3.4	memsat_svm	False	1	out	232-248
+Pp3c7_24660V3.2	memsat_svm	False	1	in	80-95
+Pp3c25_8490V3.1	memsat_svm	False	1	in	24-39
+Pp3c5_25760V3.3	memsat_svm	False	1	in	916-931
+Pp3c3_21060V3.7	memsat_svm	False	1	out	48-63
+Pp3c20_11500V3.1	memsat_svm	False	1	in	682-697
+Pp3c5_12730V3.1	memsat_svm	False	1	out	13-28
+Pp3c3_17260V3.1	memsat_svm	True	1	out	122-137
+Pp3c3_37640V3.3	memsat_svm	False	1	out	274-299
+Pp3c6_29020V3.2	memsat_svm	False	1	in	94-109
+Pp3c11_14980V3.2	memsat_svm	False	1	out	97-112
+Pp3c3_37640V3.4	memsat_svm	False	1	in	98-113
+Pp3c3_5470V3.3	memsat_svm	False	1	out	323-338
+Pp3c9_8270V3.7	memsat_svm	False	1	out	336-351
+Pp3c8_6950V3.2	memsat_svm	False	1	in	72-87
+Pp3c4_9720V3.3	memsat_svm	False	1	in	163-178
+Pp3c5_16090V3.1	memsat_svm	False	1	in	147-162
+Pp3c4_21970V3.4	memsat_svm	False	1	out	956-971
+Pp3c3_23770V3.3	memsat_svm	False	1	out	945-960
+Pp3c1_37090V3.7	memsat_svm	False	1	in	712-727
+Pp3c13_15090V3.10	memsat_svm	False	1	out	48-63
+Pp3c1_3750V3.2	memsat_svm	False	1	out	41-56
+Pp3c3_21060V3.6	memsat_svm	False	1	out	48-63
+Pp3c6_27590V3.3	memsat_svm	False	1	in	723-738
+Pp3c24_20920V3.2	memsat_svm	False	1	out	345-360
+Pp3c4_29810V3.6	memsat_svm	False	1	in	358-373
+Pp3c8_17100V3.5	memsat_svm	False	1	in	162-177
+Pp3c7_5480V3.3	memsat_svm	False	1	in	213-228
+Pp3c4_1631V3.2	memsat_svm	True	1	out	793-808
+Pp3c1_35770V3.7	memsat_svm	False	1	in	519-535
+Pp3c1_37090V3.1	memsat_svm	False	1	in	712-727
+Pp3c9_19210V3.1	memsat_svm	False	1	in	153-168
+Pp3c25_4520V3.2	memsat_svm	False	1	in	306-321
+Pp3c2_4060V3.5	memsat_svm	False	1	out	493-513
+Pp3c21_3700V3.1	memsat_svm	False	1	out	153-168
+Pp3c1_17370V3.4	memsat_svm	True	1	out	178-193
+Pp3c7_5929V3.14	memsat_svm	False	1	in	2411-2426
+Pp3c8_19010V3.5	memsat_svm	True	1	out	1110-1126
+Pp3c2_3880V3.3	memsat_svm	True	1	out	197-212
+Pp3c20_14020V3.1	memsat_svm	False	1	in	69-84
+Pp3c14_6480V3.3	memsat_svm	False	1	in	1121-1136
+Pp3c7_11520V3.2	memsat_svm	False	1	in	325-340
+Pp3c3_37640V3.2	memsat_svm	False	1	out	274-299
+Pp3c4_9720V3.2	memsat_svm	False	1	in	290-305
+Pp3c19_9880V3.1	memsat_svm	False	1	in	1360-1375
+Pp3c7_5929V3.10	memsat_svm	False	1	in	2426-2441
+Pp3c1_1170V3.2	memsat_svm	True	1	out	1118-1133
+Pp3c11_5280V3.11	memsat_svm	True	1	out	58-73
+Pp3c15_21210V3.2	memsat_svm	False	1	in	212-227
+Pp3c11_15070V3.1	memsat_svm	True	1	out	131-146
+Pp3c2_35860V3.11	memsat_svm	False	1	in	448-463
+Pp3c17_5410V3.1	memsat_svm	False	1	in	1095-1110
+Pp3c12_13280V3.1	memsat_svm	False	1	in	668-683
+Pp3c2_9470V3.3	memsat_svm	False	1	out	261-276
+Pp3c6_29020V3.1	memsat_svm	False	1	in	94-109
+Pp3c13_11088V3.1	memsat_svm	False	1	out	96-111
+Pp3c15_3710V3.1	memsat_svm	False	1	in	72-87
+Pp3c2_35860V3.1	memsat_svm	False	1	out	768-783
+Pp3c19_860V3.1	memsat_svm	False	1	out	220-236
+Pp3c24_13770V3.2	memsat_svm	True	1	out	1208-1225
+Pp3c1_860V3.1	memsat_svm	False	1	out	1437-1452
+Pp3c13_4450V3.2	memsat_svm	False	1	in	346-361
+Pp3c11_22570V3.3	memsat_svm	True	1	out	1140-1155
+Pp3c8_17910V3.1	memsat_svm	False	1	in	510-525
+Pp3c1_12290V3.2	memsat_svm	False	1	in	175-190
+Pp3c3_23770V3.2	memsat_svm	False	1	out	1181-1196
+Pp3c2_8360V3.6	memsat_svm	False	1	in	115-130
+Pp3c20_6140V3.10	memsat_svm	False	1	in	386-401
+Pp3c9_19210V3.7	memsat_svm	False	1	in	153-168
+Pp3c3_37320V3.1	memsat_svm	False	1	in	95-110
+Pp3c17_3610V3.3	memsat_svm	False	1	in	49-64
+Pp3c25_4520V3.1	memsat_svm	False	1	in	306-321
+Pp3c27_6760V3.2	memsat_svm	True	1	out	131-151
+Pp3c2_8360V3.2	memsat_svm	False	1	in	115-130
+Pp3c16_6690V3.2	memsat_svm	False	1	out	233-248
+Pp3c3_11220V3.3	memsat_svm	False	4	out	282-297,665-680,860-875,1085-1109
+Pp3c22_1890V3.1	memsat_svm	True	1	out	34-49
+Pp3c13_23373V3.1	memsat_svm	False	1	out	179-194
+Pp3c16_17020V3.4	memsat_svm	False	1	out	623-638
+Pp3c24_19330V3.1	memsat_svm	True	1	out	1127-1143
+Pp3c13_14440V3.1	memsat_svm	False	1	in	1132-1147
+Pp3c7_5929V3.8	memsat_svm	False	1	in	2426-2441
+Pp3c18_1260V3.6	memsat_svm	True	1	out	995-1010
+Pp3c24_9610V3.1	memsat_svm	True	1	out	249-264
+Pp3c4_21200V3.1	memsat_svm	False	1	in	155-170
+Pp3c7_8840V3.1	memsat_svm	False	1	in	146-161
+Pp3c13_15090V3.16	memsat_svm	False	1	out	49-64
+Pp3c8_18530V3.1	memsat_svm	False	1	out	13-28
+Pp3c7_5929V3.17	memsat_svm	False	1	in	2406-2421
+Pp3c13_15090V3.5	memsat_svm	False	1	out	49-64
+Pp3c20_6140V3.8	memsat_svm	False	1	in	386-401
+Pp3c26_5120V3.2	memsat_svm	False	1	in	375-390
+Pp3c11_26820V3.1	memsat_svm	True	1	out	42-68
+Pp3c24_13770V3.3	memsat_svm	True	1	out	1208-1225
+Pp3c7_24660V3.7	memsat_svm	False	1	in	71-86
+Pp3c21_3700V3.2	memsat_svm	False	1	out	159-174
+Pp3c11_5280V3.6	memsat_svm	True	1	out	260-275
+Pp3c11_7250V3.1	memsat_svm	False	1	in	94-109
+Pp3c12_21560V3.2	memsat_svm	False	1	in	156-171
+Pp3c12_280V3.1	memsat_svm	False	1	out	327-342
+Pp3c24_16180V3.1	memsat_svm	False	1	out	830-845
+Pp3c18_15340V3.7	memsat_svm	False	1	in	631-646
+Pp3c19_9920V3.1	memsat_svm	False	1	in	510-525
+Pp3c11_25720V3.2	memsat_svm	False	1	in	22-37
+Pp3c14_16890V3.2	memsat_svm	False	1	in	33-48
+Pp3c21_15940V3.2	memsat_svm	False	1	out	203-218
+Pp3c8_17100V3.1	memsat_svm	False	1	in	162-177
+Pp3c5_280V3.2	memsat_svm	False	1	in	722-737
+Pp3c24_8230V3.2	memsat_svm	True	1	out	52-67
+Pp3c3_21060V3.11	memsat_svm	False	1	out	49-64
+Pp3c20_5500V3.1	memsat_svm	False	1	in	61-76
+Pp3c18_15340V3.3	memsat_svm	False	1	in	631-646
+Pp3c17_16780V3.1	memsat_svm	False	1	in	77-92
+Pp3c24_6610V3.5	memsat_svm	False	1	in	389-404
+Pp3c1_17370V3.1	memsat_svm	True	1	out	178-193
+Pp3c4_26780V3.2	memsat_svm	False	1	in	163-191
+Pp3c24_8230V3.3	memsat_svm	True	1	out	52-67
+Pp3c12_16950V3.3	memsat_svm	False	1	in	71-86
+Pp3c14_2650V3.2	memsat_svm	False	1	in	674-689
+Pp3c27_3890V3.1	memsat_svm	False	1	in	573-588
+Pp3c19_10210V3.3	memsat_svm	True	1	out	106-121
+Pp3c21_12190V3.5	memsat_svm	False	1	in	562-577
+Pp3c11_23530V3.1	memsat_svm	False	1	in	104-119
+Pp3c14_20090V3.10	memsat_svm	False	1	out	48-63
+Pp3c16_9230V3.8	memsat_svm	True	1	out	892-909
+Pp3c16_4220V3.2	memsat_svm	False	1	in	403-418
+Pp3c9_8270V3.2	memsat_svm	False	1	out	805-820
+Pp3c22_6390V3.3	memsat_svm	True	1	out	153-168
+Pp3c3_17260V3.3	memsat_svm	True	1	out	122-137
+Pp3c14_20090V3.5	memsat_svm	False	1	out	43-58
+Pp3c17_8330V3.5	memsat_svm	False	1	out	130-145
+Pp3c2_17910V3.3	memsat_svm	False	2	in	321-336,356-371
+Pp3c10_13060V3.2	memsat_svm	False	1	out	123-138
+Pp3c15_549V3.1	memsat_svm	False	1	in	13-28
+Pp3c6_10590V3.2	memsat_svm	True	1	out	151-166
+Pp3c10_2450V3.7	memsat_svm	False	1	out	611-626
+Pp3c2_30835V3.3	memsat_svm	False	1	in	538-553
+Pp3c2_31290V3.7	memsat_svm	True	1	out	156-171
+Pp3c25_10710V3.1	memsat_svm	False	1	in	905-920
+Pp3c5_22320V3.3	memsat_svm	False	1	out	194-209
+Pp3c3_21060V3.5	memsat_svm	False	1	out	48-63
+Pp3c18_15340V3.2	memsat_svm	False	1	in	631-646
+Pp3c7_2900V3.5	memsat_svm	False	1	out	958-973
+Pp3c4_9940V3.1	memsat_svm	False	1	in	275-290
+Pp3c18_13500V3.3	memsat_svm	False	1	out	1466-1481
+Pp3c6_10210V3.3	memsat_svm	False	1	in	13-28
+Pp3c12_3350V3.1	memsat_svm	False	1	in	101-116
+Pp3c4_29810V3.8	memsat_svm	False	1	in	358-373
+Pp3c4_16880V3.9	memsat_svm	False	1	out	120-135
+Pp3c21_19030V3.4	memsat_svm	False	1	in	164-179
+Pp3c21_19030V3.2	memsat_svm	False	1	in	213-228
+Pp3c8_17100V3.3	memsat_svm	False	1	in	162-177
+Pp3c2_35860V3.3	memsat_svm	False	1	out	736-751
+Pp3c27_5750V3.3	memsat_svm	True	3	out	43-58,74-102,116-131
+Pp3c2_22420V3.5	memsat_svm	False	1	in	31-46
+Pp3c18_9600V3.7	memsat_svm	False	1	in	783-803
+Pp3c19_16350V3.3	memsat_svm	False	1	in	252-267
+Pp3c26_5950V3.1	memsat_svm	False	1	in	673-688
+Pp3c12_4290V3.1	memsat_svm	True	1	out	106-121
+Pp3c6_10590V3.3	memsat_svm	True	1	out	151-166
+Pp3c2_35520V3.1	memsat_svm	False	1	in	351-366
+Pp3c16_18950V3.3	memsat_svm	False	1	out	662-677
+Pp3c5_12740V3.1	memsat_svm	False	1	in	245-260
+Pp3c7_10240V3.4	memsat_svm	True	1	out	133-148
+Pp3c8_17100V3.4	memsat_svm	False	1	in	162-177
+Pp3c5_4990V3.1	memsat_svm	False	1	in	1072-1087
+Pp3c9_22160V3.2	memsat_svm	False	1	out	899-914
+Pp3c2_12540V3.1	memsat_svm	False	1	in	831-846
+Pp3c6_12160V3.2	memsat_svm	False	1	in	224-239
+Pp3c4_1631V3.4	memsat_svm	True	1	out	793-808
+Pp3c7_5929V3.18	memsat_svm	False	1	in	2406-2421
+Pp3c17_5410V3.2	memsat_svm	False	1	in	1095-1110
+Pp3c6_24360V3.2	memsat_svm	False	1	in	95-110
+Pp3c17_16550V3.4	memsat_svm	False	1	in	459-489
+Pp3c15_19270V3.4	memsat_svm	False	1	in	16-31
+Pp3c5_24460V3.3	memsat_svm	False	1	out	659-674
+Pp3c1_12290V3.3	memsat_svm	False	1	in	175-190
+Pp3c6_24130V3.5	memsat_svm	False	1	in	125-140
+Pp3c8_18540V3.7	memsat_svm	False	1	in	123-138
+Pp3c25_12300V3.3	memsat_svm	False	1	out	351-366
+Pp3c10_2450V3.5	memsat_svm	False	1	out	611-626
+Pp3c16_14340V3.3	memsat_svm	False	1	in	995-1010
+Pp3s504_10V3.3	memsat_svm	False	1	in	119-134
+Pp3c21_12190V3.1	memsat_svm	True	1	out	640-655
+Pp3c18_15340V3.6	memsat_svm	False	1	in	631-646
+Pp3c1_110V3.2	memsat_svm	False	1	out	463-478
+Pp3c13_20600V3.1	memsat_svm	True	1	out	136-151
+Pp3c22_17280V3.1	memsat_svm	False	1	out	1641-1656
+Pp3c5_8700V3.1	memsat_svm	False	1	out	200-215
+Pp3c16_20970V3.4	memsat_svm	False	1	in	201-216
+Pp3c1_860V3.5	memsat_svm	False	1	out	1437-1452
+Pp3c17_8330V3.2	memsat_svm	False	1	out	130-145
+Pp3c12_16950V3.2	memsat_svm	False	1	in	68-83
+Pp3c18_6751V3.1	memsat_svm	False	3	in	117-143,191-206,478-493
+Pp3c11_23530V3.2	memsat_svm	False	1	in	104-119
+Pp3c24_6610V3.6	memsat_svm	False	1	in	389-404
+Pp3c14_20620V3.2	memsat_svm	False	1	in	731-746
+Pp3c15_19200V3.3	memsat_svm	False	1	out	233-248
+Pp3c8_17100V3.7	memsat_svm	False	1	in	162-177
+Pp3c14_17210V3.1	memsat_svm	False	1	out	333-348
+Pp3s92_110V3.1	memsat_svm	False	2	in	206-221,996-1011
+Pp3c11_14980V3.1	memsat_svm	False	1	out	82-97
+Pp3c14_18840V3.2	memsat_svm	False	1	in	16-31
+Pp3c17_3610V3.1	memsat_svm	False	1	out	29-44
+Pp3c9_1080V3.2	memsat_svm	False	1	out	916-931
+Pp3c6_21780V3.3	memsat_svm	False	4	out	138-153,441-456,543-558,689-704
+Pp3c16_12660V3.2	memsat_svm	False	1	in	118-136
+Pp3c7_11520V3.3	memsat_svm	False	1	in	478-493
+Pp3c14_17210V3.8	memsat_svm	False	1	out	333-348
+Pp3c5_5006V3.1	memsat_svm	False	1	in	1072-1087
+Pp3c1_13308V3.1	memsat_svm	True	1	out	279-296
+Pp3c17_350V3.2	memsat_svm	False	1	out	311-331
+Pp3c8_14940V3.4	memsat_svm	True	1	out	1120-1137
+Pp3c3_14470V3.4	memsat_svm	False	1	in	848-863
+Pp3c2_31650V3.4	memsat_svm	False	1	out	286-303
+Pp3c13_15090V3.9	memsat_svm	False	1	out	48-63
+Pp3c20_6140V3.7	memsat_svm	False	1	in	386-401
+Pp3c15_11610V3.1	memsat_svm	False	1	out	494-509
+Pp3c4_1631V3.1	memsat_svm	True	1	out	793-808
+Pp3c11_5280V3.1	memsat_svm	True	1	out	260-275
+Pp3c10_11390V3.2	memsat_svm	False	1	in	142-157
+Pp3c8_2490V3.2	memsat_svm	False	1	in	13-28
+Pp3c7_26020V3.4	memsat_svm	False	1	in	95-110
+Pp3c4_21970V3.8	memsat_svm	False	1	out	956-971
+Pp3c2_35860V3.5	memsat_svm	False	1	out	768-783
+Pp3c8_17910V3.2	memsat_svm	False	1	in	512-527
+Pp3c2_35433V3.2	memsat_svm	False	1	out	9-24
+Pp3c6_10390V3.8	memsat_svm	False	1	out	1008-1023
+Pp3c12_7090V3.2	memsat_svm	False	1	in	219-234
+Pp3c7_8710V3.2	memsat_svm	False	1	out	652-667
+Pp3c26_180V3.2	memsat_svm	True	1	out	43-58
+Pp3c9_19210V3.5	memsat_svm	False	1	in	153-168
+Pp3c6_16650V3.2	memsat_svm	False	1	in	81-96
+Pp3c10_11390V3.3	memsat_svm	False	1	in	198-213
+Pp3c13_14440V3.3	memsat_svm	False	1	in	1127-1142
+Pp3c6_6640V3.2	memsat_svm	False	1	in	119-134
+Pp3c18_11770V3.2	memsat_svm	False	1	out	869-884
+Pp3c1_33770V3.5	memsat_svm	False	1	in	834-849
+Pp3c1_8820V3.2	memsat_svm	False	1	in	94-109
+Pp3c1_860V3.3	memsat_svm	False	1	out	1437-1452
+Pp3c20_6140V3.1	memsat_svm	False	1	in	352-367
+Pp3c13_19810V3.3	memsat_svm	False	1	out	1259-1274
+Pp3c1_22230V3.3	memsat_svm	False	1	in	23-38
+Pp3c7_310V3.2	memsat_svm	False	1	in	22-37
+Pp3c11_5280V3.8	memsat_svm	True	1	out	198-213
+Pp3c11_18940V3.2	memsat_svm	False	1	in	506-521
+Pp3s32_610V3.1	memsat_svm	False	1	in	119-134
+Pp3c8_21920V3.4	memsat_svm	False	1	out	279-294
+Pp3c9_8270V3.4	memsat_svm	False	1	out	439-454
+Pp3c7_8560V3.3	memsat_svm	False	1	in	239-254
+Pp3c24_15860V3.3	memsat_svm	False	1	in	162-177
+Pp3c16_9230V3.5	memsat_svm	True	1	out	892-909
+Pp3c5_280V3.6	memsat_svm	False	1	in	724-739
+Pp3c1_37090V3.5	memsat_svm	False	1	in	712-727
+Pp3c2_27490V3.4	memsat_svm	True	1	out	89-104
+Pp3c14_22150V3.5	memsat_svm	False	1	in	954-970
+Pp3c25_12300V3.2	memsat_svm	False	1	out	351-366
+Pp3c17_8330V3.4	memsat_svm	False	1	out	130-145
+Pp3c14_17210V3.14	memsat_svm	False	1	out	333-348
+Pp3c8_17100V3.11	memsat_svm	False	1	in	162-177
+Pp3c20_11500V3.3	memsat_svm	False	1	in	682-697
+Pp3c13_13210V3.1	memsat_svm	False	1	in	307-322
+Pp3c11_22570V3.4	memsat_svm	False	1	out	960-975
+Pp3c11_12900V3.1	memsat_svm	True	1	out	316-331
+Pp3c22_6390V3.4	memsat_svm	True	1	out	111-126
+Pp3c3_21060V3.18	memsat_svm	False	1	out	48-63
+Pp3c1_33770V3.1	memsat_svm	False	1	in	834-849
+Pp3c6_21140V3.1	memsat_svm	False	1	in	1034-1049
+Pp3c8_21920V3.3	memsat_svm	False	1	out	279-294
+Pp3c16_9230V3.4	memsat_svm	False	1	in	147-162
+Pp3c6_15100V3.3	memsat_svm	False	1	in	60-75
+Pp3c12_25750V3.1	memsat_svm	False	1	in	635-650
+Pp3c1_17370V3.5	memsat_svm	True	1	out	178-193
+Pp3c11_22390V3.2	memsat_svm	False	1	in	379-394
+Pp3c26_4720V3.3	memsat_svm	True	1	out	538-553
+Pp3c9_8270V3.5	memsat_svm	False	1	out	805-820
+Pp3c17_16550V3.2	memsat_svm	False	1	in	459-489
+Pp3c16_15610V3.2	memsat_svm	False	1	in	287-302
+Pp3c17_930V3.1	memsat_svm	False	1	in	324-339
+Pp3c18_1260V3.2	memsat_svm	True	1	out	790-805
+Pp3c1_8100V3.2	memsat_svm	False	1	in	177-192
+Pp3c2_31290V3.6	memsat_svm	True	1	out	156-171
+Pp3c13_15090V3.1	memsat_svm	False	1	out	49-64
+Pp3c6_8120V3.2	memsat_svm	False	1	out	692-707
+Pp3c6_24130V3.7	memsat_svm	False	1	in	125-140
+Pp3c18_13500V3.2	memsat_svm	False	1	in	1271-1286
+Pp3c18_6090V3.2	memsat_svm	False	1	out	366-381
+Pp3c2_9560V3.3	memsat_svm	True	1	out	333-348
+Pp3c1_1170V3.3	memsat_svm	False	1	in	41-56
+Pp3c9_19210V3.8	memsat_svm	False	1	in	153-168
+Pp3c17_8330V3.3	memsat_svm	False	1	out	130-145
+Pp3c6_8120V3.1	memsat_svm	False	1	out	692-707
+Pp3c6_7710V3.1	memsat_svm	False	1	in	1443-1458
+Pp3c19_11580V3.3	memsat_svm	False	1	out	118-148
+Pp3c3_23770V3.4	memsat_svm	False	1	out	945-960
+Pp3c27_5970V3.2	memsat_svm	False	1	in	186-201
+Pp3c9_19210V3.4	memsat_svm	False	1	in	153-168
+Pp3c1_8100V3.3	memsat_svm	False	1	in	177-192
+Pp3c2_35860V3.10	memsat_svm	False	1	out	768-783
+Pp3c10_6710V3.2	memsat_svm	False	1	out	58-73
+Pp3c16_210V3.4	memsat_svm	False	1	out	921-936
+Pp3c17_14770V3.2	memsat_svm	False	1	in	120-135
+Pp3c7_5480V3.1	memsat_svm	False	1	in	213-228
+Pp3c18_9600V3.6	memsat_svm	False	1	out	312-331
+Pp3c14_11190V3.8	memsat_svm	False	1	out	137-152
+Pp3c1_35770V3.3	memsat_svm	False	1	in	519-535
+Pp3c10_2450V3.6	memsat_svm	False	1	out	611-626
+Pp3c18_15340V3.4	memsat_svm	False	1	in	631-646
+Pp3c16_210V3.5	memsat_svm	False	1	out	921-936
+Pp3c25_7410V3.1	memsat_svm	False	1	in	57-72
+Pp3c15_19270V3.1	memsat_svm	False	1	in	16-31
+Pp3c7_5480V3.2	memsat_svm	False	1	in	213-228
+Pp3c11_17010V3.2	memsat_svm	False	1	out	573-588
+Pp3c4_29810V3.2	memsat_svm	False	1	in	358-373
+Pp3c16_14340V3.5	memsat_svm	False	1	in	1364-1379
+Pp3c1_33770V3.8	memsat_svm	False	1	in	834-849
+Pp3c9_18800V3.2	memsat_svm	False	1	in	377-392
+Pp3c24_9610V3.3	memsat_svm	True	1	out	249-264
+Pp3c4_29810V3.12	memsat_svm	False	1	in	358-373
+Pp3c2_17910V3.6	memsat_svm	False	2	in	321-336,356-371
+Pp3c21_5060V3.3	memsat_svm	False	1	out	86-101
+Pp3c4_19510V3.5	memsat_svm	False	1	in	155-170
+Pp3c2_35520V3.5	memsat_svm	False	1	in	163-178
+Pp3c6_10210V3.5	memsat_svm	False	1	in	13-28
+Pp3c17_16550V3.8	memsat_svm	False	1	in	459-489
+Pp3c21_14490V3.1	memsat_svm	False	3	in	113-139,187-202,474-489
+Pp3c3_17260V3.2	memsat_svm	True	1	out	122-137
+Pp3c2_4060V3.4	memsat_svm	False	1	out	493-513
+Pp3c2_35433V3.1	memsat_svm	False	1	out	9-24
+Pp3c18_13500V3.5	memsat_svm	False	1	in	1049-1064
+Pp3c19_10210V3.1	memsat_svm	True	1	out	106-121
+Pp3c13_15090V3.2	memsat_svm	False	1	out	48-63
+Pp3c4_25990V3.1	memsat_svm	False	1	in	376-391
+Pp3c5_16670V3.1	memsat_svm	True	1	out	59-74
+Pp3c3_5470V3.2	memsat_svm	False	1	out	126-141
+Pp3c16_16990V3.4	memsat_svm	True	1	out	455-470
+Pp3c3_28590V3.4	memsat_svm	True	1	out	270-285
+Pp3c16_17420V3.2	memsat_svm	False	1	in	293-318
+Pp3c12_280V3.3	memsat_svm	False	1	in	261-276
+Pp3c25_4520V3.4	memsat_svm	False	1	in	308-323
+Pp3c11_5280V3.7	memsat_svm	True	1	out	235-250
+Pp3c4_16880V3.4	memsat_svm	False	1	in	99-114
+Pp3c16_4220V3.1	memsat_svm	False	1	in	403-418
+Pp3c5_280V3.5	memsat_svm	False	1	in	724-739
+Pp3c14_17210V3.12	memsat_svm	False	1	out	333-348
+Pp3c10_1790V3.2	memsat_svm	False	1	out	286-301
+Pp3c20_6140V3.13	memsat_svm	False	1	in	540-555
+Pp3c15_19270V3.3	memsat_svm	False	1	in	16-31
+Pp3c2_31650V3.3	memsat_svm	False	1	out	286-303
+Pp3c16_20970V3.5	memsat_svm	False	1	in	201-216
+Pp3c3_15820V3.1	memsat_svm	False	1	in	1136-1151
+Pp3c14_20620V3.1	memsat_svm	False	1	in	731-746
+Pp3c2_8360V3.3	memsat_svm	False	1	in	115-130
+Pp3c10_2450V3.16	memsat_svm	False	1	out	611-626
+Pp3c18_6090V3.4	memsat_svm	False	1	out	366-381
+Pp3c14_17210V3.9	memsat_svm	False	1	out	333-348
+Pp3c17_3610V3.2	memsat_svm	False	1	out	29-44
+Pp3c6_10210V3.6	memsat_svm	False	1	in	13-28
+Pp3c17_14350V3.4	memsat_svm	False	1	out	133-148
+Pp3c16_9230V3.9	memsat_svm	False	1	in	288-303
+Pp3c14_90V3.1	memsat_svm	False	1	in	1509-1524
+Pp3c1_22210V3.5	memsat_svm	False	1	in	563-579
+Pp3c6_10590V3.1	memsat_svm	True	1	out	151-166
+Pp3c7_8710V3.1	memsat_svm	False	1	out	302-317
+Pp3c16_1040V3.1	memsat_svm	False	1	out	94-124
+Pp3c8_13820V3.1	memsat_svm	False	1	in	104-119
+Pp3c13_19680V3.2	memsat_svm	False	1	in	1202-1217
+Pp3c14_20090V3.9	memsat_svm	False	1	out	43-58
+Pp3c6_24130V3.4	memsat_svm	False	1	in	125-140
+Pp3c19_20670V3.2	memsat_svm	False	1	out	304-319
+Pp3c14_6480V3.5	memsat_svm	False	1	in	1121-1136
+Pp3c2_9470V3.1	memsat_svm	False	1	out	261-276
+Pp3c1_4600V3.1	memsat_svm	True	1	out	253-268
+Pp3c18_17900V3.1	memsat_svm	False	1	out	67-82
+Pp3c5_19640V3.3	memsat_svm	False	1	in	636-651
+Pp3c19_11580V3.2	memsat_svm	False	1	out	118-148
+Pp3c5_16090V3.2	memsat_svm	False	1	in	147-162
+Pp3c6_10390V3.4	memsat_svm	False	1	out	1008-1023
+Pp3c1_3770V3.1	memsat_svm	False	1	in	553-568
+Pp3c16_18950V3.5	memsat_svm	False	1	out	720-735
+Pp3c14_90V3.3	memsat_svm	False	1	in	1461-1476
+Pp3c8_14940V3.1	memsat_svm	False	1	out	1120-1137
+Pp3c11_23370V3.4	memsat_svm	False	1	out	273-288
+Pp3c5_21790V3.2	memsat_svm	False	1	in	119-134
+Pp3c18_13500V3.4	memsat_svm	False	1	in	1574-1589
+Pp3c2_35860V3.2	memsat_svm	False	1	out	736-751
+Pp3c6_21780V3.2	memsat_svm	False	4	out	138-153,441-456,543-558,689-704
+Pp3c8_17100V3.16	memsat_svm	False	1	in	162-177
+Pp3c8_6950V3.3	memsat_svm	True	1	out	281-296
+Pp3c14_20090V3.8	memsat_svm	False	1	out	43-58
+Pp3c12_870V3.1	memsat_svm	False	1	out	300-315
+Pp3c14_17210V3.6	memsat_svm	False	1	out	333-348
+Pp3c24_6610V3.3	memsat_svm	False	1	in	389-404
+Pp3c16_17420V3.3	memsat_svm	False	1	in	291-316
+Pp3c11_14980V3.3	memsat_svm	True	1	out	84-99
+Pp3c9_22160V3.1	memsat_svm	False	1	out	899-914
+Pp3c18_6750V3.1	memsat_svm	False	3	in	117-143,191-206,478-493
+Pp3c15_5070V3.4	memsat_svm	False	1	out	320-335

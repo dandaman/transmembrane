@@ -1,0 +1,10 @@
+#only TAP
+snakemake --configfile TF.json --cluster 'qsub -V -cwd -j y -q plant2,plant_wheat -o {log} -e {log} -pe serial {threads}' --jobs 300 --latency-wait 90
+snakemake --configfile TR.json --cluster 'qsub -V -cwd -j y -q plant2,plant_wheat -o {log} -e {log} -pe serial {threads}' --jobs 300 --latency-wait 90
+snakemake --configfile PT.json --cluster 'qsub -V -cwd -j y -q plant2,plant_wheat -o {log} -e {log} -pe serial {threads}' --jobs 300 --latency-wait 90
+
+#all V3.3 proteins 
+split_multiseqfile.pl -f fasta -c 5000 -o chunks/ ../cosmoss_V3.3.protein.cd-hit_100pid.fasta 
+
+for i in chunks/*.fasta; do e=$(basename $i); e=${e/.fasta}; snakemake --config result="chunks/$e.transmembrane_predictions.csv" tmp="tmp_$e" proteins=$i --configfile chunks.json --cluster 'qsub -V -cwd -j y -q plant2,plant_wheat -o {log} -e {log} -pe serial {threads}' --jobs 300 --latency-wait 90; done
+

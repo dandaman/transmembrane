@@ -1,0 +1,8 @@
+sample_data/
+benchmark/
+.snakemake/
+Physcomitrella_patens.TAP_annotation.6.tsv
+chunks/
+full.json
+log/
+play/
